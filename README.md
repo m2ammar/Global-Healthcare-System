@@ -2,12 +2,11 @@
 
 ![Dashboard](Dashboard.png)
 
-A 19-table relational database built in MySQL analyzing global healthcare 
-KPIs across 190+ countries using real-world inspired data from WHO, 
+A 19-table relational healthcare analytics database built in MySQL to analyze global healthcare KPIs across 190+ countries using real-world inspired data from WHO, 
 World Bank, and IHME sources.
 
-Built to observe how healthcare systems performed across regions during 
-sensitive global periods — and to demonstrate the ability to work with 
+Built to analyze how healthcare systems performed across regions during 
+critical global periods — and to demonstrate the ability to work with 
 large, interconnected datasets at a professional level.
 
 ---
@@ -65,6 +64,8 @@ The database includes tables related to:
 - Business Intelligence
 - Tableau Dashboarding
 - Healthcare Data Analytics
+
+---
 
 ## 🗺️ Entity Relationship Diagram
 
@@ -371,6 +372,8 @@ ORDER BY sl.country_name;
 3. Execute the script to create all tables and insert data
 4. Connect Tableau to exported CSV files
 5. Open Tableau dashboard
+
+---
 
 ## 📁 Files
 
