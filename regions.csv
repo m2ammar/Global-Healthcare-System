@@ -1,0 +1,22 @@
+region_id,region_name,super_region
+1,"African Region",South
+2,Americas,North
+3,"South-East Asia",East
+4,"European Region",North
+5,"Eastern Mediterranean",East
+6,"Western Pacific",East
+7,"Central America",North
+8,Caribbean,North
+9,"Andean Latin America",South
+10,"Southern Latin America",South
+11,Brazil,South
+12,"South Asia",South
+13,"Central Asia",North
+14,"East Asia",East
+15,Australasia,East
+16,"North Africa and Middle East",East
+17,"East Africa",South
+18,"Southern Africa",South
+19,"Western Sub-Saharan Africa",South
+20,"Central Europe",North
+21,"Western Europe",North

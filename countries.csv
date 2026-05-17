@@ -1,0 +1,198 @@
+country_id,country_name,iso_code,region_id,income_group,population,currency
+1,Afghanistan,AFG,12,Low,42229427,AFN
+2,Albania,ALB,20,"Upper middle",2810174,ALL
+3,Algeria,DZA,16,"Lower middle",45367034,DZD
+4,"American Samoa",ASM,8,"Upper middle",44127,USD
+5,Andorra,AND,21,High,80088,EUR
+6,Angola,AGO,18,"Lower middle",36668935,AOA
+7,"Antigua and Barbuda",ATG,8,High,100772,XCD
+8,Argentina,ARG,10,"Upper middle",46654581,ARS
+9,Armenia,ARM,13,"Upper middle",3010400,AMD
+10,Australia,AUS,15,High,26439111,AUD
+11,Austria,AUT,21,High,9156039,EUR
+12,Azerbaijan,AZE,13,"Upper middle",10412651,AZN
+13,Bahamas,BHS,8,High,413314,BSD
+14,Bahrain,BHR,16,High,1463265,BHD
+15,Bangladesh,BGD,12,"Lower middle",172954319,BDT
+16,Barbados,BRB,8,High,284589,BBD
+17,Belarus,BLR,20,"Upper middle",9498413,BYR
+18,Belgium,BEL,21,High,11670301,EUR
+19,Belize,BLZ,7,"Upper middle",412966,BZD
+20,Benin,BEN,19,Low,13712828,XOF
+21,Bhutan,BTN,12,"Lower middle",787938,BTN
+22,Bolivia,BOL,9,"Lower middle",12311884,BOB
+23,"Bosnia and Herzegovina",BIH,20,"Upper middle",3210847,BAM
+24,Botswana,BWA,18,"Upper middle",2756394,BWP
+25,Brazil,BRA,11,"Upper middle",215313498,BRL
+26,"Brunei Darussalam",BRN,6,High,452524,BND
+27,Bulgaria,BGR,20,"Upper middle",6458353,BGN
+28,"Burkina Faso",BFA,19,Low,23251485,XOF
+29,Burundi,BDI,17,Low,13238559,BIF
+30,"Cabo Verde",CPV,19,"Lower middle",598682,CVE
+31,Cambodia,KHM,3,"Lower middle",17476521,KHR
+32,Cameroon,CMR,17,"Lower middle",28647293,XAF
+33,Canada,CAN,2,High,38929902,CAD
+34,"Central African Republic",CAF,17,Low,5650957,XAF
+35,Chad,TCD,17,Low,18310000,XAF
+36,Chile,CHL,10,High,19629590,CLP
+37,China,CHN,14,"Upper middle",1409670000,CNY
+38,Colombia,COL,9,"Upper middle",52085168,COP
+39,Comoros,COM,18,"Lower middle",850886,KMF
+40,Congo,COG,17,"Lower middle",6142167,XAF
+41,"Cook Islands",COK,15,"Upper middle",17500,NZD
+42,"Costa Rica",CRI,7,High,5214705,CRC
+43,"Cote d'Ivoire",CIV,19,"Lower middle",29625111,XOF
+44,Croatia,HRV,20,High,3858465,EUR
+45,Cuba,CUB,2,"Upper middle",11026201,CUP
+46,Cyprus,CYP,4,High,1331186,EUR
+47,Czechia,CZE,20,High,10872095,CZK
+48,"Democratic People's Republic of Korea",PRK,14,Low,26415871,KPW
+49,"Democratic Republic of the Congo",COD,17,Low,109110000,CDF
+50,Denmark,DNK,21,High,6012155,DKK
+51,Djibouti,DJI,16,"Lower middle",1322338,DJF
+52,Dominica,DMA,8,"Upper middle",71656,XCD
+53,"Dominican Republic",DOM,2,"Upper middle",11278812,DOP
+54,Ecuador,ECU,9,"Upper middle",18247965,USD
+55,Egypt,EGY,16,"Lower middle",114677108,EGP
+56,"El Salvador",SLV,7,"Upper middle",6560906,USD
+57,"Equatorial Guinea",GNQ,17,"Upper middle",1700561,XAF
+58,Eritrea,ERI,17,Low,3790000,ERN
+59,Estonia,EST,20,High,1385796,EUR
+60,Eswatini,SWZ,18,"Lower middle",1222426,SZL
+61,Ethiopia,ETH,17,Low,132106068,ETB
+62,Fiji,FJI,15,"Upper middle",936549,FJD
+63,Finland,FIN,21,High,5571612,EUR
+64,France,FRA,21,High,68239000,EUR
+65,Gabon,GAB,17,"Upper middle",2431352,XAF
+66,Gambia,GMB,19,Low,2765414,GMD
+67,Georgia,GEO,13,"Upper middle",3673564,GEL
+68,Germany,DEU,21,High,83869136,EUR
+69,Ghana,GHA,19,"Lower middle",35007565,GHS
+70,Greece,GRC,21,High,10360625,EUR
+71,Grenada,GRD,8,"Upper middle",126085,XCD
+72,Guatemala,GTM,7,"Upper middle",18465952,GTQ
+73,Guinea,GIN,19,Low,14611248,GNF
+74,Guinea-Bissau,GNB,19,Low,2162865,XOF
+75,Guyana,GUY,2,"Upper middle",835686,GYD
+76,Haiti,HTI,2,Low,11682748,HTG
+77,"Holy See",VAT,21,High,501,EUR
+78,Honduras,HND,7,"Lower middle",10612600,HNL
+79,Hungary,HUN,20,High,9601553,HUF
+80,Iceland,ISL,21,High,393074,ISK
+81,India,IND,12,"Lower middle",1428627663,INR
+82,Indonesia,IDN,3,"Upper middle",280403538,IDR
+83,Iran,IRN,16,"Lower middle",89592132,IRR
+84,Iraq,IRQ,16,"Upper middle",47164345,IQD
+85,Ireland,IRL,21,High,5327106,EUR
+86,Israel,ISR,16,High,9576946,ILS
+87,Italy,ITA,21,High,58715851,EUR
+88,Jamaica,JAM,8,"Upper middle",2794115,JMD
+89,Japan,JPN,6,High,122651470,JPY
+90,Jordan,JOR,16,"Lower middle",11621200,JOD
+91,Kazakhstan,KAZ,13,"Upper middle",20257943,KZT
+92,Kenya,KEN,17,"Lower middle",56800000,KES
+93,Kiribati,KIR,15,"Lower middle",136203,AUD
+94,"Korea, Republic of",KOR,14,High,51743001,KRW
+95,Kuwait,KWT,16,High,4340000,KWD
+96,Kyrgyzstan,KGZ,13,"Lower middle",7103339,KGS
+97,"Lao People's Democratic Republic",LAO,3,"Lower middle",7682636,LAK
+98,Latvia,LVA,20,High,1849654,EUR
+99,Lebanon,LBN,16,"Lower middle",6032381,LBP
+100,Lesotho,LSO,18,"Lower middle",2401540,LSL
+101,Liberia,LBR,19,Low,5400000,LRD
+102,Libya,LBY,16,"Upper middle",7121516,LYD
+103,Liechtenstein,LIE,21,High,40356,CHF
+104,Lithuania,LTU,20,High,2872576,EUR
+105,Luxembourg,LUX,21,High,672050,EUR
+106,Madagascar,MDG,17,Low,31140000,MGA
+107,Malawi,MWI,17,Low,21500000,MWK
+108,Malaysia,MYS,6,"Upper middle",34537297,MYR
+109,Maldives,MDV,3,"Upper middle",521457,MVR
+110,Mali,MLI,19,Low,24317192,XOF
+111,Malta,MLT,4,High,553951,EUR
+112,"Marshall Islands",MHL,15,"Upper middle",41559,USD
+113,Mauritania,MRT,19,"Lower middle",4970491,MRU
+114,Mauritius,MUS,18,"Upper middle",1270879,MUR
+115,Mexico,MEX,2,"Upper middle",130262216,MXN
+116,Micronesia,FSM,15,"Lower middle",115479,USD
+117,Moldova,MDA,20,"Upper middle",2556196,MDL
+118,Monaco,MCO,21,High,39242,EUR
+119,Mongolia,MNG,6,"Lower middle",3557554,MNT
+120,Montenegro,MNE,20,"Upper middle",616218,EUR
+121,Morocco,MAR,16,"Lower middle",38365160,MAD
+122,Mozambique,MOZ,18,Low,34326200,MZN
+123,Myanmar,MMR,3,"Lower middle",55779800,MMK
+124,Namibia,NAM,18,"Upper middle",2627129,NAD
+125,Nauru,NRU,15,"Upper middle",13358,AUD
+126,Nepal,NPL,12,"Lower middle",31712947,NPR
+127,Netherlands,NLD,21,High,17974992,EUR
+128,"New Zealand",NZL,15,High,5379364,NZD
+129,Nicaragua,NIC,7,"Lower middle",7063588,NIO
+130,Niger,NER,19,Low,28315220,XOF
+131,Nigeria,NGA,19,"Lower middle",229102077,NGN
+132,"North Macedonia",MKD,20,"Upper middle",2058539,MKD
+133,Norway,NOR,21,High,5573981,NOK
+134,Oman,OMN,16,High,4716453,OMR
+135,Pakistan,PAK,12,"Lower middle",251269220,PKR
+136,Palau,PLW,15,"Upper middle",17907,USD
+137,Panama,PAN,7,High,4641124,PAB
+138,"Papua New Guinea",PNG,6,"Lower middle",10850000,PGK
+139,Paraguay,PRY,10,"Upper middle",6860160,PYG
+140,Peru,PER,9,"Upper middle",34794335,PEN
+141,Philippines,PHL,6,"Lower middle",120685707,PHP
+142,Poland,POL,20,High,36672523,PLN
+143,Portugal,PRT,21,High,10461526,EUR
+144,Qatar,QAT,16,High,2891438,QAR
+145,Romania,ROU,20,High,19027163,RON
+146,"Russian Federation",RUS,20,High,143673315,RUB
+147,Rwanda,RWA,17,Low,14610585,RWF
+148,"Saint Kitts and Nevis",KNA,8,High,47144,XCD
+149,"Saint Lucia",LCA,8,"Upper middle",179857,XCD
+150,"Saint Vincent and the Grenadines",VCT,8,"Upper middle",103948,XCD
+151,Samoa,WSM,15,"Lower middle",214926,WST
+152,"San Marino",SMR,21,High,33167,EUR
+153,"Sao Tome and Principe",STP,17,"Lower middle",235447,STN
+154,"Saudi Arabia",SAU,16,High,37292880,SAR
+155,Senegal,SEN,19,"Lower middle",18487505,XOF
+156,Serbia,SRB,20,"Upper middle",6552783,RSD
+157,Seychelles,SYC,18,High,131999,SCR
+158,"Sierra Leone",SLE,19,Low,8994011,SLL
+159,Singapore,SGP,6,High,6031503,SGD
+160,Slovakia,SVK,20,High,5459436,EUR
+161,Slovenia,SVN,20,High,2125981,EUR
+162,"Solomon Islands",SLB,15,"Lower middle",749471,SBD
+163,Somalia,SOM,17,Low,18585239,SOS
+164,"South Africa",ZAF,18,"Upper middle",63738886,ZAR
+165,"South Sudan",SSD,17,Low,11965336,SSP
+166,Spain,ESP,21,High,47985458,EUR
+167,"Sri Lanka",LKA,3,"Lower middle",22571066,LKR
+168,Sudan,SDN,16,"Lower middle",48976079,SDG
+169,Suriname,SUR,2,"Upper middle",631056,SRD
+170,Sweden,SWE,21,High,10780355,SEK
+171,Switzerland,CHE,21,High,8950000,CHF
+172,"Syrian Arab Republic",SYR,16,Low,23820849,SYP
+173,Taiwan,TWN,14,High,23511000,TWD
+174,Tajikistan,TJK,13,"Lower middle",10813400,TJS
+175,Tanzania,TZA,17,"Lower middle",69373000,TZS
+176,Thailand,THA,3,"Upper middle",71719170,THB
+177,Timor-Leste,TLS,3,"Lower middle",1413785,USD
+178,Togo,TGO,19,Low,9346006,XOF
+179,Tonga,TON,15,"Upper middle",107722,TOP
+180,"Trinidad and Tobago",TTO,8,High,1526041,TTD
+181,Tunisia,TUN,16,"Lower middle",12836120,TND
+182,Turkey,TUR,13,"Upper middle",87060000,TRY
+183,Turkmenistan,TKM,13,"Upper middle",6615000,TMT
+184,Tuvalu,TUV,15,"Upper middle",11334,AUD
+185,Uganda,UGA,17,Low,50432358,UGX
+186,Ukraine,UKR,20,"Upper middle",36799200,UAH
+187,"United Arab Emirates",ARE,16,High,9755469,AED
+188,"United Kingdom of Great Britain and Northern Ireland",GBR,21,High,67938684,GBP
+189,"United States of America",USA,2,High,345657721,USD
+190,Uruguay,URY,10,High,3431747,UYU
+191,Uzbekistan,UZB,13,"Lower middle",37051113,UZS
+192,Vanuatu,VUT,15,"Lower middle",326740,VUV
+193,Venezuela,VEN,9,"Lower middle",29150549,VES
+194,"Viet Nam",VNM,3,"Lower middle",100393035,VND
+195,Yemen,YEM,16,Low,35204555,YER
+196,Zambia,ZMB,18,"Lower middle",20880000,ZMW
+197,Zimbabwe,ZWE,18,Low,17280000,ZWL

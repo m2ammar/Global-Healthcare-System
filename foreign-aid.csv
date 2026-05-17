@@ -1,0 +1,111 @@
+aid_id,country_id,year_id,aid_usd_millions,donor_name,aid_category
+1,130,2000,180.00,"World Bank","Health Systems Strengthening"
+2,130,2000,95.00,USAID,"Maternal Health"
+3,130,2005,220.00,"World Bank","Polio Eradication"
+4,130,2010,380.00,USAID,"Infectious Disease Control"
+5,130,2015,420.00,"Global Fund",HIV/TB/Malaria
+6,130,2020,450.50,USAID,"Infectious Disease Control"
+7,130,2021,800.00,COVAX,"Vaccine Support"
+8,130,2022,620.00,"World Bank","Flood Response Health"
+9,130,2023,520.00,ADB,"Primary Healthcare"
+10,127,2000,680.00,PEPFAR,HIV/AIDS
+11,127,2005,880.00,"Global Fund",Malaria/HIV
+12,127,2010,1050.00,"World Bank","Health Systems"
+13,127,2015,1150.00,"Global Fund",Malaria/HIV
+14,127,2020,1200.00,"Global Fund",Malaria/HIV
+15,127,2021,980.00,COVAX,"Vaccine Support"
+16,127,2022,850.00,USAID,"Infectious Disease Control"
+17,127,2023,780.00,WHO,"Health Systems"
+18,60,2000,280.00,"World Bank","Health Systems"
+19,60,2005,380.00,USAID,"Infectious Disease Control"
+20,60,2010,450.00,"World Bank","Health Systems"
+21,60,2015,500.00,"Global Fund",Malaria/HIV/TB
+22,60,2020,550.00,"World Bank","Health Systems"
+23,60,2021,720.00,COVAX,"Vaccine Support"
+24,60,2022,680.00,USAID,"Conflict Health Response"
+25,60,2023,590.00,EU,"Health Systems Strengthening"
+26,95,2000,185.00,USAID,HIV/AIDS
+27,95,2005,250.00,PEPFAR,HIV/AIDS
+28,95,2010,320.00,"Global Fund",HIV/Malaria
+29,95,2015,380.00,USAID,"Health Systems"
+30,95,2020,420.00,"World Bank","Health Systems"
+31,95,2021,580.00,COVAX,"Vaccine Support"
+32,95,2023,350.00,USAID,"Primary Healthcare"
+33,15,2000,240.00,"World Bank","Health Systems"
+34,15,2005,280.00,ADB,"Maternal Health"
+35,15,2010,320.00,USAID,"Infectious Disease Control"
+36,15,2015,360.00,"World Bank","Health Systems"
+37,15,2020,420.00,"Global Fund","TB Control"
+38,15,2021,580.00,COVAX,"Vaccine Support"
+39,15,2023,380.00,"World Bank","Primary Healthcare"
+40,80,2000,620.00,"World Bank","Health Systems"
+41,80,2005,480.00,"World Bank","Polio Eradication"
+42,80,2010,380.00,"Global Fund",HIV/TB
+43,80,2015,280.00,"World Bank","Health Systems"
+44,80,2020,220.00,"World Bank","COVID Response"
+45,80,2021,520.00,COVAX,"Vaccine Support"
+46,163,2000,380.00,PEPFAR,HIV/AIDS
+47,163,2005,520.00,PEPFAR,HIV/AIDS
+48,163,2010,680.00,PEPFAR,HIV/AIDS
+49,163,2015,580.00,PEPFAR,HIV/AIDS
+50,163,2020,480.00,PEPFAR,HIV/AIDS
+51,163,2021,580.00,COVAX,"Vaccine Support"
+52,79,2000,280.00,"World Bank","Health Systems"
+53,79,2010,320.00,ADB,"Health Insurance Expansion"
+54,79,2020,280.00,"World Bank","COVID Response"
+55,79,2021,620.00,COVAX,"Vaccine Support"
+56,1,2000,480.00,"World Bank","Health Systems"
+57,1,2005,620.00,USAID,"Health Systems"
+58,1,2010,820.00,"World Bank","Health Systems"
+59,1,2015,680.00,USAID,"Health Systems"
+60,1,2020,580.00,"World Bank","Health Systems"
+61,1,2020,300.00,UNICEF,"Maternal Health"
+62,1,2021,720.00,COVAX,"Vaccine Support"
+63,1,2022,850.00,"UN Agencies","Humanitarian Health"
+64,1,2023,920.00,WHO,"Emergency Health"
+65,130,2003,165.00,"World Bank","Health Systems Strengthening"
+66,130,2008,260.00,USAID,"Maternal Child Health"
+67,130,2012,350.00,DFID,"Polio Eradication"
+68,130,2018,410.00,"Global Fund","TB Control"
+69,127,2003,580.00,PEPFAR,HIV/AIDS
+70,127,2008,760.00,"Global Fund","Malaria Control"
+71,127,2012,920.00,"World Bank","Health Infrastructure"
+72,127,2018,1080.00,USAID,"Polio Eradication"
+73,60,2003,240.00,USAID,"Health Systems"
+74,60,2008,320.00,"World Bank",HIV/AIDS
+75,60,2012,390.00,"Global Fund",Malaria/HIV/TB
+76,60,2018,480.00,EU,"Primary Healthcare"
+77,95,2003,155.00,PEPFAR,HIV/AIDS
+78,95,2008,220.00,"Global Fund",HIV/Malaria
+79,95,2012,295.00,"World Bank","Health Systems"
+80,95,2018,355.00,USAID,"Maternal Health"
+81,15,2003,210.00,"World Bank","Health Infrastructure"
+82,15,2008,260.00,ADB,"Primary Healthcare"
+83,15,2012,295.00,"Global Fund","TB Control"
+84,15,2018,345.00,USAID,Nutrition
+85,80,2003,540.00,"World Bank","Polio Eradication"
+86,80,2008,440.00,USAID,"Maternal Health"
+87,80,2012,320.00,"Global Fund",HIV/TB
+88,80,2018,250.00,"World Bank","Health Systems"
+89,163,2003,440.00,PEPFAR,HIV/AIDS
+90,163,2008,600.00,PEPFAR,HIV/AIDS
+91,163,2012,640.00,PEPFAR,HIV/AIDS
+92,163,2018,520.00,PEPFAR,HIV/AIDS
+93,1,2003,550.00,USAID,"Emergency Health"
+94,1,2008,700.00,"World Bank","Health Systems"
+95,1,2012,790.00,"UN Agencies","Health Systems"
+96,1,2018,640.00,USAID,"Health Systems"
+97,79,2005,220.00,ADB,"Health Systems"
+98,79,2015,295.00,"World Bank","JKN Expansion"
+99,119,2005,85.00,USAID,"Family Planning"
+100,119,2015,75.00,"World Bank","Health Systems"
+101,37,2000,580.00,"World Bank","Rural Health"
+102,37,2010,280.00,"World Bank","Rural Health"
+103,33,2020,55.00,WHO,"COVID Response"
+104,10,2020,65.00,WHO,"COVID Response"
+105,64,2020,180.00,EU,"COVID Response"
+106,67,2020,200.00,EU,"COVID Response"
+107,181,2020,220.00,EU,"COVID Response"
+108,182,2000,850.00,"USAID Donor","Global Health Initiative"
+109,155,2000,120.00,"World Bank","Health Modernization"
+110,155,2010,180.00,"World Bank","Health Systems"

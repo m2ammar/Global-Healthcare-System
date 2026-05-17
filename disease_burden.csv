@@ -1,0 +1,1001 @@
+burden_id,country_id,year_id,disease_name,disease_group,daily_rate,mortality_rate,incidence_rate
+1,182,2000,"Ischemic Heart Disease",NCD,NULL,195.00,1100.00
+2,182,2005,"Ischemic Heart Disease",NCD,NULL,178.00,1150.00
+3,182,2010,"Ischemic Heart Disease",NCD,NULL,165.00,1180.00
+4,182,2015,"Ischemic Heart Disease",NCD,NULL,158.00,1195.00
+5,182,2020,"Ischemic Heart Disease",NCD,NULL,155.20,1200.00
+6,182,2000,"Diabetes Mellitus",NCD,NULL,24.50,580.00
+7,182,2010,"Diabetes Mellitus",NCD,NULL,28.00,680.00
+8,182,2020,"Diabetes Mellitus",NCD,NULL,31.00,780.00
+9,182,2020,"Tracheal/Bronchus/Lung Cancer",NCD,NULL,45.10,65.00
+10,182,2020,"Alzheimers Disease",NCD,NULL,38.00,140.00
+11,182,2020,COVID-19,Communicable,NULL,112.00,31000.00
+12,182,2021,COVID-19,Communicable,NULL,145.00,42000.00
+13,182,2022,COVID-19,Communicable,NULL,58.00,18000.00
+14,182,2023,COVID-19,Communicable,NULL,22.00,8000.00
+15,130,2000,Tuberculosis,Communicable,NULL,68.00,350.00
+16,130,2005,Tuberculosis,Communicable,NULL,60.00,310.00
+17,130,2010,Tuberculosis,Communicable,NULL,53.00,285.00
+18,130,2015,Tuberculosis,Communicable,NULL,46.00,270.00
+19,130,2020,Tuberculosis,Communicable,NULL,44.00,259.00
+20,130,2023,Tuberculosis,Communicable,NULL,40.00,245.00
+21,130,2000,"Diarrheal Diseases",Communicable,NULL,78.00,2200.00
+22,130,2010,"Diarrheal Diseases",Communicable,NULL,58.00,1800.00
+23,130,2020,"Diarrheal Diseases",Communicable,NULL,42.00,1400.00
+24,130,2020,"Ischemic Heart Disease",NCD,NULL,118.00,900.00
+25,130,2020,COVID-19,Communicable,NULL,35.00,2800.00
+26,130,2021,COVID-19,Communicable,NULL,52.00,4500.00
+27,130,2022,COVID-19,Communicable,NULL,18.00,1200.00
+28,130,2020,"Lower Respiratory Infections",Communicable,NULL,55.00,3500.00
+29,130,2020,"Neonatal Disorders",Communicable,NULL,64.00,1100.00
+30,80,2000,"Diarrheal Diseases",Communicable,NULL,95.00,2200.00
+31,80,2005,"Diarrheal Diseases",Communicable,NULL,78.00,1950.00
+32,80,2010,"Diarrheal Diseases",Communicable,NULL,66.00,1750.00
+33,80,2015,"Diarrheal Diseases",Communicable,NULL,58.00,1620.00
+34,80,2020,"Diarrheal Diseases",Communicable,NULL,55.00,1500.00
+35,80,2000,Tuberculosis,Communicable,NULL,58.00,220.00
+36,80,2010,Tuberculosis,Communicable,NULL,42.00,195.00
+37,80,2020,Tuberculosis,Communicable,NULL,35.00,188.00
+38,80,2020,"Ischemic Heart Disease",NCD,NULL,140.00,1050.00
+39,80,2020,COVID-19,Communicable,NULL,28.00,2400.00
+40,80,2021,COVID-19,Communicable,NULL,62.00,9800.00
+41,80,2022,COVID-19,Communicable,NULL,14.00,1800.00
+42,80,2020,Malnutrition,Communicable,NULL,22.00,4500.00
+43,80,2020,"Diabetes Mellitus",NCD,NULL,28.00,950.00
+44,127,2000,Malaria,Communicable,NULL,145.00,48000.00
+45,127,2005,Malaria,Communicable,NULL,130.00,42000.00
+46,127,2010,Malaria,Communicable,NULL,115.00,38000.00
+47,127,2015,Malaria,Communicable,NULL,102.00,35000.00
+48,127,2020,Malaria,Communicable,NULL,95.00,32000.00
+49,127,2023,Malaria,Communicable,NULL,88.00,28000.00
+50,127,2020,HIV/AIDS,Communicable,NULL,48.00,340.00
+51,127,2020,Tuberculosis,Communicable,NULL,60.00,280.00
+52,127,2020,"Diarrheal Diseases",Communicable,NULL,72.00,4500.00
+53,127,2020,COVID-19,Communicable,NULL,9.00,480.00
+54,127,2021,COVID-19,Communicable,NULL,12.00,620.00
+55,37,2000,Stroke,NCD,NULL,165.00,1800.00
+56,37,2010,Stroke,NCD,NULL,148.00,1750.00
+57,37,2020,Stroke,NCD,NULL,135.00,1700.00
+58,37,2000,"Ischemic Heart Disease",NCD,NULL,140.00,980.00
+59,37,2010,"Ischemic Heart Disease",NCD,NULL,125.00,1050.00
+60,37,2020,"Ischemic Heart Disease",NCD,NULL,118.00,1120.00
+61,37,2020,"Lung Cancer",NCD,NULL,52.00,82.00
+62,37,2020,COVID-19,Communicable,NULL,3.00,65.00
+63,37,2021,COVID-19,Communicable,NULL,2.00,45.00
+64,37,2022,COVID-19,Communicable,NULL,18.00,8200.00
+65,67,2000,"Ischemic Heart Disease",NCD,NULL,210.00,1380.00
+66,67,2010,"Ischemic Heart Disease",NCD,NULL,175.00,1300.00
+67,67,2020,"Ischemic Heart Disease",NCD,NULL,148.00,1250.00
+68,67,2020,COVID-19,Communicable,NULL,108.00,2800.00
+69,67,2021,COVID-19,Communicable,NULL,125.00,4200.00
+70,67,2022,COVID-19,Communicable,NULL,72.00,22000.00
+71,67,2020,"Diabetes Mellitus",NCD,NULL,26.00,720.00
+72,67,2020,"Alzheimers Disease",NCD,NULL,42.00,160.00
+73,25,2000,"Diabetes Mellitus",NCD,NULL,28.00,760.00
+74,25,2010,"Diabetes Mellitus",NCD,NULL,30.50,820.00
+75,25,2020,"Diabetes Mellitus",NCD,NULL,32.50,850.00
+76,25,2020,COVID-19,Communicable,NULL,180.00,6200.00
+77,25,2021,COVID-19,Communicable,NULL,290.00,12500.00
+78,25,2022,COVID-19,Communicable,NULL,95.00,4800.00
+79,25,2020,"Ischemic Heart Disease",NCD,NULL,130.00,980.00
+80,25,2020,"Dengue Fever",Communicable,NULL,1.50,18000.00
+81,181,2000,"Ischemic Heart Disease",NCD,NULL,220.00,1400.00
+82,181,2010,"Ischemic Heart Disease",NCD,NULL,180.00,1320.00
+83,181,2020,"Ischemic Heart Disease",NCD,NULL,145.00,1260.00
+84,181,2020,COVID-19,Communicable,NULL,195.00,5200.00
+85,181,2021,COVID-19,Communicable,NULL,140.00,8800.00
+86,181,2022,COVID-19,Communicable,NULL,68.00,26000.00
+87,181,2020,"Alzheimers Disease",NCD,NULL,45.00,175.00
+88,88,2000,Stroke,NCD,NULL,145.00,1200.00
+89,88,2010,Stroke,NCD,NULL,120.00,1100.00
+90,88,2020,Stroke,NCD,NULL,88.00,980.00
+91,88,2020,COVID-19,Communicable,NULL,10.00,520.00
+92,88,2021,COVID-19,Communicable,NULL,15.00,1800.00
+93,88,2022,COVID-19,Communicable,NULL,25.00,14000.00
+94,60,2000,Malaria,Communicable,NULL,88.00,28000.00
+95,60,2010,Malaria,Communicable,NULL,62.00,18000.00
+96,60,2020,Malaria,Communicable,NULL,42.00,12000.00
+97,60,2020,"Diarrheal Diseases",Communicable,NULL,68.00,3800.00
+98,60,2020,Tuberculosis,Communicable,NULL,58.00,220.00
+99,60,2020,HIV/AIDS,Communicable,NULL,35.00,210.00
+100,60,2020,"Neonatal Disorders",Communicable,NULL,92.00,1800.00
+101,163,2000,HIV/AIDS,Communicable,NULL,165.00,850.00
+102,163,2010,HIV/AIDS,Communicable,NULL,140.00,580.00
+103,163,2020,HIV/AIDS,Communicable,NULL,88.00,320.00
+104,163,2020,Tuberculosis,Communicable,NULL,72.00,520.00
+105,163,2020,COVID-19,Communicable,NULL,110.00,2800.00
+106,163,2021,COVID-19,Communicable,NULL,195.00,4200.00
+107,163,2020,"Ischemic Heart Disease",NCD,NULL,98.00,820.00
+108,173,2000,HIV/AIDS,Communicable,NULL,28.00,145.00
+109,173,2010,HIV/AIDS,Communicable,NULL,15.00,80.00
+110,173,2020,HIV/AIDS,Communicable,NULL,8.00,45.00
+111,173,2020,COVID-19,Communicable,NULL,5.00,280.00
+112,173,2021,COVID-19,Communicable,NULL,20.00,1200.00
+113,173,2020,"Diabetes Mellitus",NCD,NULL,38.00,980.00
+114,79,2000,Tuberculosis,Communicable,NULL,62.00,285.00
+115,79,2010,Tuberculosis,Communicable,NULL,48.00,250.00
+116,79,2020,Tuberculosis,Communicable,NULL,38.00,220.00
+117,79,2020,COVID-19,Communicable,NULL,42.00,1800.00
+118,79,2021,COVID-19,Communicable,NULL,62.00,5200.00
+119,79,2020,Malaria,Communicable,NULL,8.00,2200.00
+120,119,2000,"Diabetes Mellitus",NCD,NULL,42.00,980.00
+121,119,2010,"Diabetes Mellitus",NCD,NULL,52.00,1100.00
+122,119,2020,"Diabetes Mellitus",NCD,NULL,68.00,1380.00
+123,119,2020,COVID-19,Communicable,NULL,188.00,4200.00
+124,119,2021,COVID-19,Communicable,NULL,215.00,5800.00
+125,119,2020,"Ischemic Heart Disease",NCD,NULL,118.00,1020.00
+126,15,2000,"Diarrheal Diseases",Communicable,NULL,88.00,3200.00
+127,15,2010,"Diarrheal Diseases",Communicable,NULL,55.00,2200.00
+128,15,2020,"Diarrheal Diseases",Communicable,NULL,35.00,1600.00
+129,15,2020,COVID-19,Communicable,NULL,18.00,1200.00
+130,15,2021,COVID-19,Communicable,NULL,22.00,1800.00
+131,15,2020,Tuberculosis,Communicable,NULL,42.00,225.00
+132,95,2000,HIV/AIDS,Communicable,NULL,82.00,320.00
+133,95,2010,HIV/AIDS,Communicable,NULL,48.00,185.00
+134,95,2020,HIV/AIDS,Communicable,NULL,28.00,120.00
+135,95,2020,Malaria,Communicable,NULL,38.00,8500.00
+136,95,2020,Tuberculosis,Communicable,NULL,42.00,195.00
+137,33,2000,"Ischemic Heart Disease",NCD,NULL,168.00,1180.00
+138,33,2010,"Ischemic Heart Disease",NCD,NULL,145.00,1120.00
+139,33,2020,"Ischemic Heart Disease",NCD,NULL,122.00,1050.00
+140,33,2020,COVID-19,Communicable,NULL,68.00,2200.00
+141,33,2021,COVID-19,Communicable,NULL,72.00,4800.00
+142,33,2022,COVID-19,Communicable,NULL,42.00,12000.00
+143,10,2000,"Ischemic Heart Disease",NCD,NULL,158.00,1100.00
+144,10,2010,"Ischemic Heart Disease",NCD,NULL,128.00,1050.00
+145,10,2020,"Ischemic Heart Disease",NCD,NULL,105.00,980.00
+146,10,2020,COVID-19,Communicable,NULL,4.00,180.00
+147,10,2021,COVID-19,Communicable,NULL,8.00,680.00
+148,10,2022,COVID-19,Communicable,NULL,48.00,18500.00
+149,64,2020,COVID-19,Communicable,NULL,175.00,4800.00
+150,64,2021,COVID-19,Communicable,NULL,120.00,7200.00
+151,64,2022,COVID-19,Communicable,NULL,85.00,28000.00
+152,64,2020,"Ischemic Heart Disease",NCD,NULL,88.00,980.00
+153,64,2020,"Alzheimers Disease",NCD,NULL,48.00,188.00
+154,155,2000,"Ischemic Heart Disease",NCD,NULL,380.00,2200.00
+155,155,2010,"Ischemic Heart Disease",NCD,NULL,320.00,2050.00
+156,155,2020,"Ischemic Heart Disease",NCD,NULL,285.00,1920.00
+157,155,2020,COVID-19,Communicable,NULL,188.00,5200.00
+158,155,2021,COVID-19,Communicable,NULL,220.00,8800.00
+159,155,2020,Tuberculosis,Communicable,NULL,12.00,58.00
+160,39,2020,COVID-19,Communicable,NULL,148.00,4200.00
+161,39,2021,COVID-19,Communicable,NULL,215.00,6800.00
+162,39,2020,"Ischemic Heart Disease",NCD,NULL,88.00,820.00
+163,39,2020,"Dengue Fever",Communicable,NULL,0.80,8800.00
+164,8,2020,COVID-19,Communicable,NULL,165.00,5200.00
+165,8,2021,COVID-19,Communicable,NULL,280.00,9800.00
+166,8,2020,"Diabetes Mellitus",NCD,NULL,28.00,780.00
+167,8,2020,"Ischemic Heart Disease",NCD,NULL,112.00,920.00
+168,155,2000,"Ischemic Heart Disease",NCD,NULL,382.00,2250.00
+169,155,2005,"Ischemic Heart Disease",NCD,NULL,358.00,2150.00
+170,155,2010,"Ischemic Heart Disease",NCD,NULL,320.00,2050.00
+171,155,2015,"Ischemic Heart Disease",NCD,NULL,298.00,1980.00
+172,155,2020,"Ischemic Heart Disease",NCD,NULL,285.00,1920.00
+173,155,2023,"Ischemic Heart Disease",NCD,NULL,275.00,1880.00
+174,155,2000,Stroke,NCD,NULL,245.00,1850.00
+175,155,2010,Stroke,NCD,NULL,210.00,1750.00
+176,155,2020,Stroke,NCD,NULL,188.00,1650.00
+177,155,2020,Tuberculosis,Communicable,NULL,12.00,58.00
+178,155,2020,"Alcohol Use Disorders",NCD,NULL,38.00,1200.00
+179,155,2020,"Lung Cancer",NCD,NULL,55.00,88.00
+180,39,2000,"Violence Homicide",Injury,NULL,68.00,450.00
+181,39,2005,"Violence Homicide",Injury,NULL,52.00,340.00
+182,39,2010,"Violence Homicide",Injury,NULL,35.00,240.00
+183,39,2015,"Violence Homicide",Injury,NULL,28.00,200.00
+184,39,2020,"Violence Homicide",Injury,NULL,25.00,180.00
+185,39,2020,"Ischemic Heart Disease",NCD,NULL,88.00,820.00
+186,39,2020,"Dengue Fever",Communicable,NULL,0.80,8800.00
+187,39,2020,"Diabetes Mellitus",NCD,NULL,24.00,680.00
+188,8,2000,"Ischemic Heart Disease",NCD,NULL,135.00,980.00
+189,8,2010,"Ischemic Heart Disease",NCD,NULL,118.00,940.00
+190,8,2020,"Ischemic Heart Disease",NCD,NULL,112.00,920.00
+191,8,2020,"Diabetes Mellitus",NCD,NULL,28.00,780.00
+192,8,2020,"Colorectal Cancer",NCD,NULL,18.00,55.00
+193,163,2000,HIV/AIDS,Communicable,NULL,165.00,850.00
+194,163,2005,HIV/AIDS,Communicable,NULL,228.00,780.00
+195,163,2010,HIV/AIDS,Communicable,NULL,140.00,580.00
+196,163,2015,HIV/AIDS,Communicable,NULL,105.00,420.00
+197,163,2020,HIV/AIDS,Communicable,NULL,88.00,320.00
+198,163,2023,HIV/AIDS,Communicable,NULL,68.00,265.00
+199,163,2020,Tuberculosis,Communicable,NULL,72.00,520.00
+200,163,2023,Tuberculosis,Communicable,NULL,60.00,465.00
+201,163,2020,"Interpersonal Violence",Injury,NULL,38.00,280.00
+202,79,2000,Stroke,NCD,NULL,102.00,1200.00
+203,79,2010,Stroke,NCD,NULL,88.00,1100.00
+204,79,2020,Stroke,NCD,NULL,72.00,980.00
+205,79,2020,"Ischemic Heart Disease",NCD,NULL,95.00,880.00
+206,79,2020,"Diabetes Mellitus",NCD,NULL,32.00,950.00
+207,79,2020,"Lower Respiratory Infections",Communicable,NULL,42.00,2800.00
+208,119,2000,"Violence Homicide",Injury,NULL,12.00,82.00
+209,119,2010,"Violence Homicide",Injury,NULL,22.00,148.00
+210,119,2020,"Violence Homicide",Injury,NULL,28.00,188.00
+211,119,2020,"Chronic Kidney Disease",NCD,NULL,28.00,320.00
+212,119,2000,"Diarrheal Diseases",Communicable,NULL,25.00,1200.00
+213,119,2010,"Diarrheal Diseases",Communicable,NULL,12.00,780.00
+214,119,2020,"Diarrheal Diseases",Communicable,NULL,8.00,520.00
+215,15,2000,"Lower Respiratory Infections",Communicable,NULL,72.00,3200.00
+216,15,2010,"Lower Respiratory Infections",Communicable,NULL,48.00,2200.00
+217,15,2020,"Lower Respiratory Infections",Communicable,NULL,32.00,1600.00
+218,15,2020,"Ischemic Heart Disease",NCD,NULL,98.00,850.00
+219,15,2020,Stroke,NCD,NULL,82.00,780.00
+220,15,2020,"Diabetes Mellitus",NCD,NULL,22.00,650.00
+221,95,2000,"Diarrheal Diseases",Communicable,NULL,72.00,3500.00
+222,95,2010,"Diarrheal Diseases",Communicable,NULL,48.00,2500.00
+223,95,2020,"Diarrheal Diseases",Communicable,NULL,32.00,1800.00
+224,95,2020,Tuberculosis,Communicable,NULL,42.00,195.00
+225,95,2020,Malaria,Communicable,NULL,38.00,8500.00
+226,95,2020,HIV/AIDS,Communicable,NULL,28.00,120.00
+227,33,2000,"Ischemic Heart Disease",NCD,NULL,168.00,1180.00
+228,33,2010,"Ischemic Heart Disease",NCD,NULL,145.00,1120.00
+229,33,2020,"Ischemic Heart Disease",NCD,NULL,122.00,1050.00
+230,33,2020,"Colorectal Cancer",NCD,NULL,22.00,68.00
+231,33,2020,"Diabetes Mellitus",NCD,NULL,18.00,580.00
+232,10,2000,"Ischemic Heart Disease",NCD,NULL,158.00,1100.00
+233,10,2010,"Ischemic Heart Disease",NCD,NULL,128.00,1050.00
+234,10,2020,"Ischemic Heart Disease",NCD,NULL,105.00,980.00
+235,10,2020,"Melanoma Skin Cancer",NCD,NULL,18.00,55.00
+236,10,2020,"Diabetes Mellitus",NCD,NULL,14.00,520.00
+237,64,2000,"Ischemic Heart Disease",NCD,NULL,120.00,1050.00
+238,64,2010,"Ischemic Heart Disease",NCD,NULL,100.00,1000.00
+239,64,2020,"Ischemic Heart Disease",NCD,NULL,88.00,980.00
+240,64,2020,"Alzheimers Disease",NCD,NULL,48.00,188.00
+241,64,2020,"Breast Cancer",NCD,NULL,25.00,90.00
+242,182,2000,"Ischemic Heart Disease",NCD,NULL,54.12,749.31
+243,182,2000,Stroke,NCD,NULL,118.94,1461.32
+244,182,2000,"Diabetes Mellitus",NCD,NULL,37.18,1397.46
+245,182,2000,"Lower Respiratory Infections",Communicable,NULL,85.79,843.12
+246,182,2000,Tuberculosis,Communicable,NULL,19.09,361.20
+247,182,2000,"Diarrheal Diseases",Communicable,NULL,32.11,2406.88
+248,182,2000,Malaria,Communicable,NULL,22.79,1995.78
+249,182,2000,HIV/AIDS,Communicable,NULL,92.48,3542.59
+250,182,2000,COVID-19,Communicable,NULL,85.96,1914.76
+251,182,2000,"Chronic Kidney Disease",NCD,NULL,70.92,786.89
+252,182,2000,"Alzheimers Disease",NCD,NULL,141.08,857.21
+253,182,2000,"Lung Cancer",NCD,NULL,108.03,926.08
+254,182,2000,"Breast Cancer",NCD,NULL,38.42,415.98
+255,182,2000,"Colorectal Cancer",NCD,NULL,140.06,726.63
+256,182,2000,"Neonatal Disorders",Communicable,NULL,96.56,1639.38
+257,182,2000,"Hypertensive Heart Disease",NCD,NULL,41.35,534.35
+258,182,2000,"Road Injuries",Injury,NULL,25.75,126.97
+259,182,2000,"Depressive Disorders",NCD,NULL,43.84,777.82
+260,182,2005,"Ischemic Heart Disease",NCD,NULL,149.43,1312.23
+261,182,2005,Stroke,NCD,NULL,34.14,1047.25
+262,182,2005,"Diabetes Mellitus",NCD,NULL,125.61,1455.38
+263,182,2005,"Lower Respiratory Infections",Communicable,NULL,44.20,3194.13
+264,182,2005,Tuberculosis,Communicable,NULL,89.83,644.48
+265,182,2005,"Diarrheal Diseases",Communicable,NULL,65.69,2779.69
+266,182,2005,Malaria,Communicable,NULL,52.21,438.49
+267,182,2005,HIV/AIDS,Communicable,NULL,57.16,2067.82
+268,182,2005,COVID-19,Communicable,NULL,88.21,3546.63
+269,182,2005,"Chronic Kidney Disease",NCD,NULL,117.43,574.23
+270,182,2005,"Alzheimers Disease",NCD,NULL,105.21,1395.99
+271,182,2005,"Lung Cancer",NCD,NULL,35.96,403.29
+272,182,2005,"Breast Cancer",NCD,NULL,150.25,198.22
+273,182,2005,"Colorectal Cancer",NCD,NULL,33.83,428.68
+274,182,2005,"Neonatal Disorders",Communicable,NULL,33.90,2536.77
+275,182,2005,"Hypertensive Heart Disease",NCD,NULL,136.00,394.01
+276,182,2005,"Road Injuries",Injury,NULL,9.86,46.01
+277,182,2005,"Depressive Disorders",NCD,NULL,151.23,928.84
+278,182,2010,"Ischemic Heart Disease",NCD,NULL,84.72,593.60
+279,182,2010,Stroke,NCD,NULL,166.70,1404.47
+280,182,2010,"Diabetes Mellitus",NCD,NULL,92.44,809.28
+281,182,2010,"Lower Respiratory Infections",Communicable,NULL,77.43,600.27
+282,182,2010,Tuberculosis,Communicable,NULL,34.34,2986.93
+283,182,2010,"Diarrheal Diseases",Communicable,NULL,39.32,1154.36
+284,182,2010,Malaria,Communicable,NULL,31.64,945.18
+285,182,2010,HIV/AIDS,Communicable,NULL,85.78,2245.17
+286,182,2010,COVID-19,Communicable,NULL,70.50,1232.72
+287,182,2010,"Chronic Kidney Disease",NCD,NULL,119.99,407.40
+288,182,2010,"Alzheimers Disease",NCD,NULL,32.16,159.33
+289,182,2010,"Lung Cancer",NCD,NULL,143.92,776.12
+290,182,2010,"Breast Cancer",NCD,NULL,66.92,896.38
+291,182,2010,"Colorectal Cancer",NCD,NULL,163.50,1264.32
+292,182,2010,"Neonatal Disorders",Communicable,NULL,46.06,3088.71
+293,182,2010,"Hypertensive Heart Disease",NCD,NULL,80.80,598.19
+294,182,2010,"Road Injuries",Injury,NULL,32.95,150.75
+295,182,2010,"Depressive Disorders",NCD,NULL,148.97,1279.05
+296,182,2015,"Ischemic Heart Disease",NCD,NULL,139.14,186.10
+297,182,2015,Stroke,NCD,NULL,83.74,614.83
+298,182,2015,"Diabetes Mellitus",NCD,NULL,101.13,352.92
+299,182,2015,"Lower Respiratory Infections",Communicable,NULL,71.45,3115.49
+300,182,2015,Tuberculosis,Communicable,NULL,94.36,2369.58
+301,182,2015,"Diarrheal Diseases",Communicable,NULL,63.12,2210.12
+302,182,2015,Malaria,Communicable,NULL,88.86,825.03
+303,182,2015,HIV/AIDS,Communicable,NULL,85.86,2649.94
+304,182,2015,COVID-19,Communicable,NULL,60.23,635.57
+305,182,2015,"Chronic Kidney Disease",NCD,NULL,160.80,1099.00
+306,182,2015,"Alzheimers Disease",NCD,NULL,167.26,222.43
+307,182,2015,"Lung Cancer",NCD,NULL,155.81,259.02
+308,182,2015,"Breast Cancer",NCD,NULL,95.04,505.11
+309,182,2015,"Colorectal Cancer",NCD,NULL,45.69,616.76
+310,182,2015,"Neonatal Disorders",Communicable,NULL,98.97,2555.09
+311,182,2015,"Hypertensive Heart Disease",NCD,NULL,94.99,305.31
+312,182,2015,"Road Injuries",Injury,NULL,19.10,139.92
+313,182,2015,"Depressive Disorders",NCD,NULL,36.07,196.24
+314,182,2020,"Ischemic Heart Disease",NCD,NULL,167.44,1275.65
+315,182,2020,Stroke,NCD,NULL,117.32,1480.78
+316,182,2020,"Diabetes Mellitus",NCD,NULL,39.69,1104.37
+317,182,2020,"Lower Respiratory Infections",Communicable,NULL,71.45,1010.73
+318,182,2020,Tuberculosis,Communicable,NULL,25.14,3064.61
+319,182,2020,"Diarrheal Diseases",Communicable,NULL,72.52,609.59
+320,182,2020,Malaria,Communicable,NULL,49.41,2059.14
+321,182,2020,HIV/AIDS,Communicable,NULL,84.65,3097.97
+322,182,2020,COVID-19,Communicable,NULL,33.54,970.54
+323,182,2020,"Chronic Kidney Disease",NCD,NULL,100.67,1326.10
+324,182,2020,"Alzheimers Disease",NCD,NULL,88.68,1446.95
+325,182,2020,"Lung Cancer",NCD,NULL,142.55,1310.46
+326,182,2020,"Breast Cancer",NCD,NULL,114.73,1216.44
+327,182,2020,"Colorectal Cancer",NCD,NULL,136.59,494.96
+328,182,2020,"Neonatal Disorders",Communicable,NULL,83.73,1360.49
+329,182,2020,"Hypertensive Heart Disease",NCD,NULL,87.27,1260.19
+330,182,2020,"Road Injuries",Injury,NULL,7.77,213.51
+331,182,2020,"Depressive Disorders",NCD,NULL,99.17,769.87
+332,182,2023,"Ischemic Heart Disease",NCD,NULL,106.66,1445.50
+333,182,2023,Stroke,NCD,NULL,102.13,538.86
+334,182,2023,"Diabetes Mellitus",NCD,NULL,108.76,1252.97
+335,182,2023,"Lower Respiratory Infections",Communicable,NULL,33.56,706.31
+336,182,2023,Tuberculosis,Communicable,NULL,96.38,2015.31
+337,182,2023,"Diarrheal Diseases",Communicable,NULL,22.47,1823.51
+338,182,2023,Malaria,Communicable,NULL,63.20,1098.56
+339,182,2023,HIV/AIDS,Communicable,NULL,79.02,569.58
+340,182,2023,COVID-19,Communicable,NULL,87.30,2365.56
+341,182,2023,"Chronic Kidney Disease",NCD,NULL,37.93,371.24
+342,182,2023,"Alzheimers Disease",NCD,NULL,166.21,963.43
+343,182,2023,"Lung Cancer",NCD,NULL,109.21,1278.50
+344,182,2023,"Breast Cancer",NCD,NULL,44.62,649.88
+345,182,2023,"Colorectal Cancer",NCD,NULL,115.88,360.35
+346,182,2023,"Neonatal Disorders",Communicable,NULL,39.15,1222.37
+347,182,2023,"Hypertensive Heart Disease",NCD,NULL,96.00,338.27
+348,182,2023,"Road Injuries",Injury,NULL,24.42,214.95
+349,182,2023,"Depressive Disorders",NCD,NULL,157.44,492.05
+350,67,2000,"Ischemic Heart Disease",NCD,NULL,94.26,1078.00
+351,67,2000,Stroke,NCD,NULL,112.15,678.37
+352,67,2000,"Diabetes Mellitus",NCD,NULL,151.99,299.48
+353,67,2000,"Lower Respiratory Infections",Communicable,NULL,32.38,2047.51
+354,67,2000,Tuberculosis,Communicable,NULL,28.58,1982.31
+355,67,2000,"Diarrheal Diseases",Communicable,NULL,28.75,611.60
+356,67,2000,Malaria,Communicable,NULL,67.55,1314.45
+357,67,2000,HIV/AIDS,Communicable,NULL,49.61,1425.38
+358,67,2000,COVID-19,Communicable,NULL,25.70,677.49
+359,67,2000,"Chronic Kidney Disease",NCD,NULL,100.96,1204.10
+360,67,2000,"Alzheimers Disease",NCD,NULL,49.86,187.82
+361,67,2000,"Lung Cancer",NCD,NULL,150.98,1004.15
+362,67,2000,"Breast Cancer",NCD,NULL,56.91,890.91
+363,67,2000,"Colorectal Cancer",NCD,NULL,158.82,952.11
+364,67,2000,"Neonatal Disorders",Communicable,NULL,70.89,508.12
+365,67,2000,"Hypertensive Heart Disease",NCD,NULL,121.21,904.19
+366,67,2000,"Road Injuries",Injury,NULL,8.76,75.68
+367,67,2000,"Depressive Disorders",NCD,NULL,116.28,748.41
+368,67,2005,"Ischemic Heart Disease",NCD,NULL,172.71,903.26
+369,67,2005,Stroke,NCD,NULL,84.15,457.78
+370,67,2005,"Diabetes Mellitus",NCD,NULL,105.93,855.28
+371,67,2005,"Lower Respiratory Infections",Communicable,NULL,29.59,2054.98
+372,67,2005,Tuberculosis,Communicable,NULL,70.47,898.39
+373,67,2005,"Diarrheal Diseases",Communicable,NULL,64.96,3286.98
+374,67,2005,Malaria,Communicable,NULL,88.88,2271.23
+375,67,2005,HIV/AIDS,Communicable,NULL,35.46,1496.52
+376,67,2005,COVID-19,Communicable,NULL,33.22,3317.77
+377,67,2005,"Chronic Kidney Disease",NCD,NULL,94.56,516.44
+378,67,2005,"Alzheimers Disease",NCD,NULL,150.30,808.44
+379,67,2005,"Lung Cancer",NCD,NULL,80.87,1244.32
+380,67,2005,"Breast Cancer",NCD,NULL,68.12,398.60
+381,67,2005,"Colorectal Cancer",NCD,NULL,54.63,723.12
+382,67,2005,"Neonatal Disorders",Communicable,NULL,74.81,1375.79
+383,67,2005,"Hypertensive Heart Disease",NCD,NULL,50.54,189.54
+384,67,2005,"Road Injuries",Injury,NULL,26.00,232.41
+385,67,2005,"Depressive Disorders",NCD,NULL,85.30,872.72
+386,67,2010,"Ischemic Heart Disease",NCD,NULL,141.95,1124.32
+387,67,2010,Stroke,NCD,NULL,53.47,1011.59
+388,67,2010,"Diabetes Mellitus",NCD,NULL,153.98,704.06
+389,67,2010,"Lower Respiratory Infections",Communicable,NULL,68.86,2686.39
+390,67,2010,Tuberculosis,Communicable,NULL,62.47,3511.80
+391,67,2010,"Diarrheal Diseases",Communicable,NULL,49.61,972.58
+392,67,2010,Malaria,Communicable,NULL,77.72,1005.73
+393,67,2010,HIV/AIDS,Communicable,NULL,64.32,2977.92
+394,67,2010,COVID-19,Communicable,NULL,40.27,3100.72
+395,67,2010,"Chronic Kidney Disease",NCD,NULL,45.34,1058.01
+396,67,2010,"Alzheimers Disease",NCD,NULL,50.66,1112.24
+397,67,2010,"Lung Cancer",NCD,NULL,129.87,1492.00
+398,67,2010,"Breast Cancer",NCD,NULL,101.37,1000.42
+399,67,2010,"Colorectal Cancer",NCD,NULL,124.57,1330.80
+400,67,2010,"Neonatal Disorders",Communicable,NULL,26.22,1784.75
+401,67,2010,"Hypertensive Heart Disease",NCD,NULL,43.36,151.59
+402,67,2010,"Road Injuries",Injury,NULL,22.77,198.01
+403,67,2010,"Depressive Disorders",NCD,NULL,96.14,484.33
+404,67,2015,"Ischemic Heart Disease",NCD,NULL,121.41,693.48
+405,67,2015,Stroke,NCD,NULL,90.18,872.47
+406,67,2015,"Diabetes Mellitus",NCD,NULL,79.45,1302.60
+407,67,2015,"Lower Respiratory Infections",Communicable,NULL,90.84,2297.44
+408,67,2015,Tuberculosis,Communicable,NULL,57.57,3243.83
+409,67,2015,"Diarrheal Diseases",Communicable,NULL,57.68,2377.64
+410,67,2015,Malaria,Communicable,NULL,38.44,2429.92
+411,67,2015,HIV/AIDS,Communicable,NULL,38.65,1494.31
+412,67,2015,COVID-19,Communicable,NULL,25.88,1635.85
+413,67,2015,"Chronic Kidney Disease",NCD,NULL,117.09,375.27
+414,67,2015,"Alzheimers Disease",NCD,NULL,153.32,1024.72
+415,67,2015,"Lung Cancer",NCD,NULL,94.36,972.11
+416,67,2015,"Breast Cancer",NCD,NULL,95.98,1080.86
+417,67,2015,"Colorectal Cancer",NCD,NULL,159.79,1167.26
+418,67,2015,"Neonatal Disorders",Communicable,NULL,35.88,2760.52
+419,67,2015,"Hypertensive Heart Disease",NCD,NULL,98.48,727.53
+420,67,2015,"Road Injuries",Injury,NULL,16.20,122.71
+421,67,2015,"Depressive Disorders",NCD,NULL,143.53,317.48
+422,67,2020,"Ischemic Heart Disease",NCD,NULL,91.77,1497.08
+423,67,2020,Stroke,NCD,NULL,54.48,188.55
+424,67,2020,"Diabetes Mellitus",NCD,NULL,113.91,629.94
+425,67,2020,"Lower Respiratory Infections",Communicable,NULL,71.56,3136.91
+426,67,2020,Tuberculosis,Communicable,NULL,83.18,3185.84
+427,67,2020,"Diarrheal Diseases",Communicable,NULL,62.08,962.06
+428,67,2020,Malaria,Communicable,NULL,82.69,2710.23
+429,67,2020,HIV/AIDS,Communicable,NULL,90.47,1219.63
+430,67,2020,COVID-19,Communicable,NULL,45.45,3062.99
+431,67,2020,"Chronic Kidney Disease",NCD,NULL,47.01,1320.08
+432,67,2020,"Alzheimers Disease",NCD,NULL,77.21,289.05
+433,67,2020,"Lung Cancer",NCD,NULL,122.30,1372.73
+434,67,2020,"Breast Cancer",NCD,NULL,53.22,330.52
+435,67,2020,"Colorectal Cancer",NCD,NULL,168.12,1046.68
+436,67,2020,"Neonatal Disorders",Communicable,NULL,35.21,1721.73
+437,67,2020,"Hypertensive Heart Disease",NCD,NULL,57.12,968.82
+438,67,2020,"Road Injuries",Injury,NULL,19.83,193.44
+439,67,2020,"Depressive Disorders",NCD,NULL,130.85,304.20
+440,67,2023,"Ischemic Heart Disease",NCD,NULL,100.31,1417.26
+441,67,2023,Stroke,NCD,NULL,131.01,154.15
+442,67,2023,"Diabetes Mellitus",NCD,NULL,114.46,1473.42
+443,67,2023,"Lower Respiratory Infections",Communicable,NULL,92.81,3090.40
+444,67,2023,Tuberculosis,Communicable,NULL,45.58,2019.41
+445,67,2023,"Diarrheal Diseases",Communicable,NULL,64.74,1011.38
+446,67,2023,Malaria,Communicable,NULL,92.20,1023.54
+447,67,2023,HIV/AIDS,Communicable,NULL,29.90,418.88
+448,67,2023,COVID-19,Communicable,NULL,82.85,748.74
+449,67,2023,"Chronic Kidney Disease",NCD,NULL,72.94,948.31
+450,67,2023,"Alzheimers Disease",NCD,NULL,69.59,410.05
+451,67,2023,"Lung Cancer",NCD,NULL,34.25,1266.03
+452,67,2023,"Breast Cancer",NCD,NULL,50.77,191.46
+453,67,2023,"Colorectal Cancer",NCD,NULL,36.79,799.51
+454,67,2023,"Neonatal Disorders",Communicable,NULL,30.95,2681.38
+455,67,2023,"Hypertensive Heart Disease",NCD,NULL,84.63,684.75
+456,67,2023,"Road Injuries",Injury,NULL,22.37,109.31
+457,67,2023,"Depressive Disorders",NCD,NULL,136.78,679.22
+458,181,2000,"Ischemic Heart Disease",NCD,NULL,163.24,373.35
+459,181,2000,Stroke,NCD,NULL,123.47,913.48
+460,181,2000,"Diabetes Mellitus",NCD,NULL,151.05,704.31
+461,181,2000,"Lower Respiratory Infections",Communicable,NULL,30.22,2690.89
+462,181,2000,Tuberculosis,Communicable,NULL,56.02,614.11
+463,181,2000,"Diarrheal Diseases",Communicable,NULL,90.05,3193.03
+464,181,2000,Malaria,Communicable,NULL,83.98,1926.68
+465,181,2000,HIV/AIDS,Communicable,NULL,66.73,2634.65
+466,181,2000,COVID-19,Communicable,NULL,43.98,1578.13
+467,181,2000,"Chronic Kidney Disease",NCD,NULL,121.67,1054.59
+468,181,2000,"Alzheimers Disease",NCD,NULL,44.65,1140.58
+469,181,2000,"Lung Cancer",NCD,NULL,90.92,305.83
+470,181,2000,"Breast Cancer",NCD,NULL,62.56,590.32
+471,181,2000,"Colorectal Cancer",NCD,NULL,100.53,829.96
+472,181,2000,"Neonatal Disorders",Communicable,NULL,18.23,1234.32
+473,181,2000,"Hypertensive Heart Disease",NCD,NULL,97.64,901.07
+474,181,2000,"Road Injuries",Injury,NULL,32.20,189.49
+475,181,2000,"Depressive Disorders",NCD,NULL,87.97,416.98
+476,181,2005,"Ischemic Heart Disease",NCD,NULL,125.15,815.30
+477,181,2005,Stroke,NCD,NULL,97.76,328.71
+478,181,2005,"Diabetes Mellitus",NCD,NULL,144.66,738.47
+479,181,2005,"Lower Respiratory Infections",Communicable,NULL,81.28,2831.42
+480,181,2005,Tuberculosis,Communicable,NULL,56.45,3427.83
+481,181,2005,"Diarrheal Diseases",Communicable,NULL,62.05,2480.39
+482,181,2005,Malaria,Communicable,NULL,36.26,3014.80
+483,181,2005,HIV/AIDS,Communicable,NULL,57.37,2048.40
+484,181,2005,COVID-19,Communicable,NULL,25.39,2602.53
+485,181,2005,"Chronic Kidney Disease",NCD,NULL,40.36,227.46
+486,181,2005,"Alzheimers Disease",NCD,NULL,133.99,804.32
+487,181,2005,"Lung Cancer",NCD,NULL,140.93,585.23
+488,181,2005,"Breast Cancer",NCD,NULL,147.57,1499.49
+489,181,2005,"Colorectal Cancer",NCD,NULL,33.06,1197.49
+490,181,2005,"Neonatal Disorders",Communicable,NULL,80.62,1625.37
+491,181,2005,"Hypertensive Heart Disease",NCD,NULL,89.67,387.47
+492,181,2005,"Road Injuries",Injury,NULL,25.84,117.56
+493,181,2005,"Depressive Disorders",NCD,NULL,41.07,584.35
+494,181,2010,"Ischemic Heart Disease",NCD,NULL,107.62,1487.97
+495,181,2010,Stroke,NCD,NULL,122.30,1253.94
+496,181,2010,"Diabetes Mellitus",NCD,NULL,151.05,1264.27
+497,181,2010,"Lower Respiratory Infections",Communicable,NULL,38.04,2808.14
+498,181,2010,Tuberculosis,Communicable,NULL,56.84,2087.15
+499,181,2010,"Diarrheal Diseases",Communicable,NULL,29.08,2686.51
+500,181,2010,Malaria,Communicable,NULL,36.23,2705.65
+501,181,2010,HIV/AIDS,Communicable,NULL,29.66,2866.86
+502,181,2010,COVID-19,Communicable,NULL,42.59,362.58
+503,181,2010,"Chronic Kidney Disease",NCD,NULL,126.16,702.06
+504,181,2010,"Alzheimers Disease",NCD,NULL,142.24,1249.94
+505,181,2010,"Lung Cancer",NCD,NULL,133.88,1169.43
+506,181,2010,"Breast Cancer",NCD,NULL,81.10,764.53
+507,181,2010,"Colorectal Cancer",NCD,NULL,120.00,429.52
+508,181,2010,"Neonatal Disorders",Communicable,NULL,53.16,2864.72
+509,181,2010,"Hypertensive Heart Disease",NCD,NULL,110.64,1185.77
+510,181,2010,"Road Injuries",Injury,NULL,16.81,70.79
+511,181,2010,"Depressive Disorders",NCD,NULL,64.94,493.19
+512,181,2015,"Ischemic Heart Disease",NCD,NULL,69.31,562.68
+513,181,2015,Stroke,NCD,NULL,156.83,503.01
+514,181,2015,"Diabetes Mellitus",NCD,NULL,175.90,193.21
+515,181,2015,"Lower Respiratory Infections",Communicable,NULL,31.04,388.69
+516,181,2015,Tuberculosis,Communicable,NULL,29.66,429.40
+517,181,2015,"Diarrheal Diseases",Communicable,NULL,43.95,2593.10
+518,181,2015,Malaria,Communicable,NULL,54.71,2908.33
+519,181,2015,HIV/AIDS,Communicable,NULL,20.78,554.01
+520,181,2015,COVID-19,Communicable,NULL,83.61,2051.82
+521,181,2015,"Chronic Kidney Disease",NCD,NULL,57.17,678.43
+522,181,2015,"Alzheimers Disease",NCD,NULL,40.50,537.90
+523,181,2015,"Lung Cancer",NCD,NULL,158.64,1332.74
+524,181,2015,"Breast Cancer",NCD,NULL,126.64,1352.56
+525,181,2015,"Colorectal Cancer",NCD,NULL,38.68,505.82
+526,181,2015,"Neonatal Disorders",Communicable,NULL,74.43,1866.26
+527,181,2015,"Hypertensive Heart Disease",NCD,NULL,152.35,202.33
+528,181,2015,"Road Injuries",Injury,NULL,28.82,118.17
+529,181,2015,"Depressive Disorders",NCD,NULL,77.07,986.47
+530,181,2020,"Ischemic Heart Disease",NCD,NULL,92.55,944.79
+531,181,2020,Stroke,NCD,NULL,169.39,757.95
+532,181,2020,"Diabetes Mellitus",NCD,NULL,138.30,644.63
+533,181,2020,"Lower Respiratory Infections",Communicable,NULL,87.33,2622.99
+534,181,2020,Tuberculosis,Communicable,NULL,78.62,873.51
+535,181,2020,"Diarrheal Diseases",Communicable,NULL,57.48,882.65
+536,181,2020,Malaria,Communicable,NULL,51.27,837.81
+537,181,2020,HIV/AIDS,Communicable,NULL,53.69,1458.80
+538,181,2020,COVID-19,Communicable,NULL,28.69,1055.24
+539,181,2020,"Chronic Kidney Disease",NCD,NULL,169.82,193.94
+540,181,2020,"Alzheimers Disease",NCD,NULL,95.57,987.57
+541,181,2020,"Lung Cancer",NCD,NULL,53.12,232.10
+542,181,2020,"Breast Cancer",NCD,NULL,63.75,355.32
+543,181,2020,"Colorectal Cancer",NCD,NULL,122.80,1078.16
+544,181,2020,"Neonatal Disorders",Communicable,NULL,28.02,1500.41
+545,181,2020,"Hypertensive Heart Disease",NCD,NULL,163.80,459.12
+546,181,2020,"Road Injuries",Injury,NULL,11.14,49.88
+547,181,2020,"Depressive Disorders",NCD,NULL,54.00,163.95
+548,181,2023,"Ischemic Heart Disease",NCD,NULL,165.30,234.04
+549,181,2023,Stroke,NCD,NULL,175.65,627.34
+550,181,2023,"Diabetes Mellitus",NCD,NULL,127.91,1450.32
+551,181,2023,"Lower Respiratory Infections",Communicable,NULL,47.72,3226.48
+552,181,2023,Tuberculosis,Communicable,NULL,37.73,1494.99
+553,181,2023,"Diarrheal Diseases",Communicable,NULL,57.77,2601.27
+554,181,2023,Malaria,Communicable,NULL,83.00,592.89
+555,181,2023,HIV/AIDS,Communicable,NULL,51.63,1047.55
+556,181,2023,COVID-19,Communicable,NULL,76.54,1788.77
+557,181,2023,"Chronic Kidney Disease",NCD,NULL,84.93,1169.23
+558,181,2023,"Alzheimers Disease",NCD,NULL,100.85,523.31
+559,181,2023,"Lung Cancer",NCD,NULL,46.13,174.97
+560,181,2023,"Breast Cancer",NCD,NULL,90.16,885.43
+561,181,2023,"Colorectal Cancer",NCD,NULL,98.01,1463.70
+562,181,2023,"Neonatal Disorders",Communicable,NULL,55.44,1301.56
+563,181,2023,"Hypertensive Heart Disease",NCD,NULL,114.11,1315.06
+564,181,2023,"Road Injuries",Injury,NULL,16.10,209.91
+565,181,2023,"Depressive Disorders",NCD,NULL,172.20,1097.95
+566,88,2000,"Ischemic Heart Disease",NCD,NULL,154.70,722.22
+567,88,2000,Stroke,NCD,NULL,171.85,174.60
+568,88,2000,"Diabetes Mellitus",NCD,NULL,171.34,821.20
+569,88,2000,"Lower Respiratory Infections",Communicable,NULL,56.43,1172.02
+570,88,2000,Tuberculosis,Communicable,NULL,88.88,1361.52
+571,88,2000,"Diarrheal Diseases",Communicable,NULL,50.01,473.83
+572,88,2000,Malaria,Communicable,NULL,32.87,3575.34
+573,88,2000,HIV/AIDS,Communicable,NULL,97.23,3068.16
+574,88,2000,COVID-19,Communicable,NULL,28.26,3383.96
+575,88,2000,"Chronic Kidney Disease",NCD,NULL,66.32,1190.39
+576,88,2000,"Alzheimers Disease",NCD,NULL,72.42,196.93
+577,88,2000,"Lung Cancer",NCD,NULL,146.12,228.56
+578,88,2000,"Breast Cancer",NCD,NULL,170.23,1262.92
+579,88,2000,"Colorectal Cancer",NCD,NULL,34.03,1483.62
+580,88,2000,"Neonatal Disorders",Communicable,NULL,37.01,1600.19
+581,88,2000,"Hypertensive Heart Disease",NCD,NULL,52.15,1384.13
+582,88,2000,"Road Injuries",Injury,NULL,12.60,230.66
+583,88,2000,"Depressive Disorders",NCD,NULL,72.98,787.44
+584,88,2005,"Ischemic Heart Disease",NCD,NULL,82.65,766.62
+585,88,2005,Stroke,NCD,NULL,155.51,291.66
+586,88,2005,"Diabetes Mellitus",NCD,NULL,167.08,484.05
+587,88,2005,"Lower Respiratory Infections",Communicable,NULL,52.01,1851.38
+588,88,2005,Tuberculosis,Communicable,NULL,91.68,2993.53
+589,88,2005,"Diarrheal Diseases",Communicable,NULL,61.46,3406.35
+590,88,2005,Malaria,Communicable,NULL,82.53,606.31
+591,88,2005,HIV/AIDS,Communicable,NULL,22.80,622.81
+592,88,2005,COVID-19,Communicable,NULL,27.93,2357.44
+593,88,2005,"Chronic Kidney Disease",NCD,NULL,168.21,608.20
+594,88,2005,"Alzheimers Disease",NCD,NULL,39.79,207.04
+595,88,2005,"Lung Cancer",NCD,NULL,107.49,1455.75
+596,88,2005,"Breast Cancer",NCD,NULL,105.53,859.45
+597,88,2005,"Colorectal Cancer",NCD,NULL,133.13,720.17
+598,88,2005,"Neonatal Disorders",Communicable,NULL,76.61,3483.21
+599,88,2005,"Hypertensive Heart Disease",NCD,NULL,172.72,1300.54
+600,88,2005,"Road Injuries",Injury,NULL,25.77,161.89
+601,88,2005,"Depressive Disorders",NCD,NULL,34.31,258.01
+602,88,2010,"Ischemic Heart Disease",NCD,NULL,78.47,797.35
+603,88,2010,Stroke,NCD,NULL,147.93,536.05
+604,88,2010,"Diabetes Mellitus",NCD,NULL,83.71,886.15
+605,88,2010,"Lower Respiratory Infections",Communicable,NULL,76.22,577.95
+606,88,2010,Tuberculosis,Communicable,NULL,81.15,3519.51
+607,88,2010,"Diarrheal Diseases",Communicable,NULL,89.06,1279.97
+608,88,2010,Malaria,Communicable,NULL,51.61,2651.37
+609,88,2010,HIV/AIDS,Communicable,NULL,65.60,2763.84
+610,88,2010,COVID-19,Communicable,NULL,86.09,2441.32
+611,88,2010,"Chronic Kidney Disease",NCD,NULL,100.62,476.66
+612,88,2010,"Alzheimers Disease",NCD,NULL,164.67,671.53
+613,88,2010,"Lung Cancer",NCD,NULL,34.67,706.68
+614,88,2010,"Breast Cancer",NCD,NULL,126.73,1081.81
+615,88,2010,"Colorectal Cancer",NCD,NULL,62.74,460.27
+616,88,2010,"Neonatal Disorders",Communicable,NULL,76.01,3190.35
+617,88,2010,"Hypertensive Heart Disease",NCD,NULL,50.68,932.03
+618,88,2010,"Road Injuries",Injury,NULL,14.11,141.94
+619,88,2010,"Depressive Disorders",NCD,NULL,69.05,802.25
+620,88,2015,"Ischemic Heart Disease",NCD,NULL,162.84,1400.87
+621,88,2015,Stroke,NCD,NULL,40.00,715.97
+622,88,2015,"Diabetes Mellitus",NCD,NULL,62.83,264.83
+623,88,2015,"Lower Respiratory Infections",Communicable,NULL,31.76,1288.39
+624,88,2015,Tuberculosis,Communicable,NULL,83.51,1590.82
+625,88,2015,"Diarrheal Diseases",Communicable,NULL,87.54,747.11
+626,88,2015,Malaria,Communicable,NULL,27.31,2964.53
+627,88,2015,HIV/AIDS,Communicable,NULL,61.98,2845.69
+628,88,2015,COVID-19,Communicable,NULL,82.60,2008.23
+629,88,2015,"Chronic Kidney Disease",NCD,NULL,108.78,842.01
+630,88,2015,"Alzheimers Disease",NCD,NULL,130.73,174.20
+631,88,2015,"Lung Cancer",NCD,NULL,157.52,1141.60
+632,88,2015,"Breast Cancer",NCD,NULL,118.95,1031.08
+633,88,2015,"Colorectal Cancer",NCD,NULL,162.63,377.64
+634,88,2015,"Neonatal Disorders",Communicable,NULL,25.46,2795.35
+635,88,2015,"Hypertensive Heart Disease",NCD,NULL,157.03,497.84
+636,88,2015,"Road Injuries",Injury,NULL,29.53,177.17
+637,88,2015,"Depressive Disorders",NCD,NULL,134.53,1142.71
+638,88,2020,"Ischemic Heart Disease",NCD,NULL,95.79,435.33
+639,88,2020,Stroke,NCD,NULL,82.99,494.66
+640,88,2020,"Diabetes Mellitus",NCD,NULL,49.98,888.69
+641,88,2020,"Lower Respiratory Infections",Communicable,NULL,55.77,3492.92
+642,88,2020,Tuberculosis,Communicable,NULL,20.70,2198.92
+643,88,2020,"Diarrheal Diseases",Communicable,NULL,68.89,2226.26
+644,88,2020,Malaria,Communicable,NULL,33.79,2440.05
+645,88,2020,HIV/AIDS,Communicable,NULL,19.23,1441.29
+646,88,2020,COVID-19,Communicable,NULL,97.93,2221.29
+647,88,2020,"Chronic Kidney Disease",NCD,NULL,94.36,1123.06
+648,88,2020,"Alzheimers Disease",NCD,NULL,142.21,159.05
+649,88,2020,"Lung Cancer",NCD,NULL,153.91,369.65
+650,88,2020,"Breast Cancer",NCD,NULL,154.58,1276.78
+651,88,2020,"Colorectal Cancer",NCD,NULL,93.97,197.99
+652,88,2020,"Neonatal Disorders",Communicable,NULL,89.37,886.03
+653,88,2020,"Hypertensive Heart Disease",NCD,NULL,168.39,638.57
+654,88,2020,"Road Injuries",Injury,NULL,23.36,75.84
+655,88,2020,"Depressive Disorders",NCD,NULL,153.29,1013.19
+656,88,2023,"Ischemic Heart Disease",NCD,NULL,61.42,1092.63
+657,88,2023,Stroke,NCD,NULL,141.24,193.07
+658,88,2023,"Diabetes Mellitus",NCD,NULL,95.59,1428.06
+659,88,2023,"Lower Respiratory Infections",Communicable,NULL,48.07,3156.68
+660,88,2023,Tuberculosis,Communicable,NULL,51.34,3114.70
+661,88,2023,"Diarrheal Diseases",Communicable,NULL,86.08,973.23
+662,88,2023,Malaria,Communicable,NULL,74.52,1193.33
+663,88,2023,HIV/AIDS,Communicable,NULL,99.00,1108.42
+664,88,2023,COVID-19,Communicable,NULL,44.10,1684.98
+665,88,2023,"Chronic Kidney Disease",NCD,NULL,160.31,929.71
+666,88,2023,"Alzheimers Disease",NCD,NULL,60.90,792.86
+667,88,2023,"Lung Cancer",NCD,NULL,141.89,1061.08
+668,88,2023,"Breast Cancer",NCD,NULL,43.46,1193.50
+669,88,2023,"Colorectal Cancer",NCD,NULL,80.50,690.46
+670,88,2023,"Neonatal Disorders",Communicable,NULL,82.05,1858.12
+671,88,2023,"Hypertensive Heart Disease",NCD,NULL,60.78,1181.55
+672,88,2023,"Road Injuries",Injury,NULL,13.56,40.35
+673,88,2023,"Depressive Disorders",NCD,NULL,48.30,198.19
+674,37,2000,"Ischemic Heart Disease",NCD,NULL,41.21,366.02
+675,37,2000,Stroke,NCD,NULL,55.97,875.68
+676,37,2000,"Diabetes Mellitus",NCD,NULL,38.07,899.60
+677,37,2000,"Lower Respiratory Infections",Communicable,NULL,18.23,620.06
+678,37,2000,Tuberculosis,Communicable,NULL,22.96,1398.15
+679,37,2000,"Diarrheal Diseases",Communicable,NULL,82.84,2105.28
+680,37,2000,Malaria,Communicable,NULL,80.32,2799.93
+681,37,2000,HIV/AIDS,Communicable,NULL,47.52,2365.08
+682,37,2000,COVID-19,Communicable,NULL,39.55,2907.72
+683,37,2000,"Chronic Kidney Disease",NCD,NULL,137.15,772.87
+684,37,2000,"Alzheimers Disease",NCD,NULL,120.86,762.50
+685,37,2000,"Lung Cancer",NCD,NULL,143.85,378.91
+686,37,2000,"Breast Cancer",NCD,NULL,100.71,619.05
+687,37,2000,"Colorectal Cancer",NCD,NULL,65.27,1213.87
+688,37,2000,"Neonatal Disorders",Communicable,NULL,82.90,3431.08
+689,37,2000,"Hypertensive Heart Disease",NCD,NULL,99.46,546.33
+690,37,2000,"Road Injuries",Injury,NULL,23.81,54.33
+691,37,2000,"Depressive Disorders",NCD,NULL,144.72,823.12
+692,37,2005,"Ischemic Heart Disease",NCD,NULL,98.71,757.38
+693,37,2005,Stroke,NCD,NULL,112.69,537.21
+694,37,2005,"Diabetes Mellitus",NCD,NULL,63.72,381.07
+695,37,2005,"Lower Respiratory Infections",Communicable,NULL,28.20,2812.85
+696,37,2005,Tuberculosis,Communicable,NULL,70.94,1422.18
+697,37,2005,"Diarrheal Diseases",Communicable,NULL,85.04,1892.01
+698,37,2005,Malaria,Communicable,NULL,48.03,1427.54
+699,37,2005,HIV/AIDS,Communicable,NULL,90.91,1767.82
+700,37,2005,COVID-19,Communicable,NULL,58.19,744.55
+701,37,2005,"Chronic Kidney Disease",NCD,NULL,157.54,1358.55
+702,37,2005,"Alzheimers Disease",NCD,NULL,60.00,800.25
+703,37,2005,"Lung Cancer",NCD,NULL,147.44,377.18
+704,37,2005,"Breast Cancer",NCD,NULL,81.77,996.90
+705,37,2005,"Colorectal Cancer",NCD,NULL,161.47,1242.93
+706,37,2005,"Neonatal Disorders",Communicable,NULL,33.90,629.38
+707,37,2005,"Hypertensive Heart Disease",NCD,NULL,78.19,744.31
+708,37,2005,"Road Injuries",Injury,NULL,24.00,31.44
+709,37,2005,"Depressive Disorders",NCD,NULL,137.66,1367.78
+710,37,2010,"Ischemic Heart Disease",NCD,NULL,122.54,590.78
+711,37,2010,Stroke,NCD,NULL,73.75,644.09
+712,37,2010,"Diabetes Mellitus",NCD,NULL,120.19,159.18
+713,37,2010,"Lower Respiratory Infections",Communicable,NULL,21.77,2823.83
+714,37,2010,Tuberculosis,Communicable,NULL,73.63,2668.79
+715,37,2010,"Diarrheal Diseases",Communicable,NULL,79.00,1148.11
+716,37,2010,Malaria,Communicable,NULL,44.86,1990.33
+717,37,2010,HIV/AIDS,Communicable,NULL,73.04,1485.44
+718,37,2010,COVID-19,Communicable,NULL,28.70,3442.23
+719,37,2010,"Chronic Kidney Disease",NCD,NULL,70.43,1469.60
+720,37,2010,"Alzheimers Disease",NCD,NULL,162.98,1013.59
+721,37,2010,"Lung Cancer",NCD,NULL,41.23,751.44
+722,37,2010,"Breast Cancer",NCD,NULL,126.67,843.84
+723,37,2010,"Colorectal Cancer",NCD,NULL,77.28,799.42
+724,37,2010,"Neonatal Disorders",Communicable,NULL,92.30,3153.53
+725,37,2010,"Hypertensive Heart Disease",NCD,NULL,138.54,189.00
+726,37,2010,"Road Injuries",Injury,NULL,32.61,132.65
+727,37,2010,"Depressive Disorders",NCD,NULL,38.96,578.11
+728,37,2015,"Ischemic Heart Disease",NCD,NULL,150.28,384.80
+729,37,2015,Stroke,NCD,NULL,89.81,1119.08
+730,37,2015,"Diabetes Mellitus",NCD,NULL,165.08,593.06
+731,37,2015,"Lower Respiratory Infections",Communicable,NULL,76.31,1267.11
+732,37,2015,Tuberculosis,Communicable,NULL,46.15,2927.69
+733,37,2015,"Diarrheal Diseases",Communicable,NULL,62.23,627.12
+734,37,2015,Malaria,Communicable,NULL,56.06,1245.23
+735,37,2015,HIV/AIDS,Communicable,NULL,81.67,2047.72
+736,37,2015,COVID-19,Communicable,NULL,79.08,1387.79
+737,37,2015,"Chronic Kidney Disease",NCD,NULL,103.92,408.27
+738,37,2015,"Alzheimers Disease",NCD,NULL,167.70,778.13
+739,37,2015,"Lung Cancer",NCD,NULL,153.81,549.01
+740,37,2015,"Breast Cancer",NCD,NULL,123.97,1428.76
+741,37,2015,"Colorectal Cancer",NCD,NULL,93.78,1160.13
+742,37,2015,"Neonatal Disorders",Communicable,NULL,68.90,3282.89
+743,37,2015,"Hypertensive Heart Disease",NCD,NULL,106.66,684.93
+744,37,2015,"Road Injuries",Injury,NULL,7.13,94.56
+745,37,2015,"Depressive Disorders",NCD,NULL,72.77,201.58
+746,37,2020,"Ischemic Heart Disease",NCD,NULL,102.65,1469.24
+747,37,2020,Stroke,NCD,NULL,139.63,1293.48
+748,37,2020,"Diabetes Mellitus",NCD,NULL,92.64,1097.36
+749,37,2020,"Lower Respiratory Infections",Communicable,NULL,31.78,2320.12
+750,37,2020,Tuberculosis,Communicable,NULL,56.24,3512.15
+751,37,2020,"Diarrheal Diseases",Communicable,NULL,41.28,2022.38
+752,37,2020,Malaria,Communicable,NULL,53.34,1323.20
+753,37,2020,HIV/AIDS,Communicable,NULL,80.88,2939.77
+754,37,2020,COVID-19,Communicable,NULL,66.22,1220.71
+755,37,2020,"Chronic Kidney Disease",NCD,NULL,88.27,1061.23
+756,37,2020,"Alzheimers Disease",NCD,NULL,156.28,315.56
+757,37,2020,"Lung Cancer",NCD,NULL,43.34,1063.84
+758,37,2020,"Breast Cancer",NCD,NULL,141.27,190.75
+759,37,2020,"Colorectal Cancer",NCD,NULL,67.41,1004.84
+760,37,2020,"Neonatal Disorders",Communicable,NULL,54.97,2165.99
+761,37,2020,"Hypertensive Heart Disease",NCD,NULL,139.47,729.97
+762,37,2020,"Road Injuries",Injury,NULL,16.07,170.15
+763,37,2020,"Depressive Disorders",NCD,NULL,108.67,652.26
+764,37,2023,"Ischemic Heart Disease",NCD,NULL,49.85,783.03
+765,37,2023,Stroke,NCD,NULL,123.94,1434.45
+766,37,2023,"Diabetes Mellitus",NCD,NULL,108.28,992.66
+767,37,2023,"Lower Respiratory Infections",Communicable,NULL,35.53,2864.73
+768,37,2023,Tuberculosis,Communicable,NULL,63.13,2719.38
+769,37,2023,"Diarrheal Diseases",Communicable,NULL,21.09,1603.16
+770,37,2023,Malaria,Communicable,NULL,70.60,1594.01
+771,37,2023,HIV/AIDS,Communicable,NULL,95.19,2131.09
+772,37,2023,COVID-19,Communicable,NULL,53.04,3358.98
+773,37,2023,"Chronic Kidney Disease",NCD,NULL,137.14,1323.56
+774,37,2023,"Alzheimers Disease",NCD,NULL,32.39,696.43
+775,37,2023,"Lung Cancer",NCD,NULL,95.62,288.95
+776,37,2023,"Breast Cancer",NCD,NULL,44.11,1031.41
+777,37,2023,"Colorectal Cancer",NCD,NULL,151.57,815.80
+778,37,2023,"Neonatal Disorders",Communicable,NULL,86.26,2049.09
+779,37,2023,"Hypertensive Heart Disease",NCD,NULL,151.12,1135.11
+780,37,2023,"Road Injuries",Injury,NULL,17.10,75.15
+781,37,2023,"Depressive Disorders",NCD,NULL,92.76,361.65
+782,25,2000,"Ischemic Heart Disease",NCD,NULL,50.03,1440.76
+783,25,2000,Stroke,NCD,NULL,69.23,1485.30
+784,25,2000,"Diabetes Mellitus",NCD,NULL,153.32,268.41
+785,25,2000,"Lower Respiratory Infections",Communicable,NULL,24.43,2160.48
+786,25,2000,Tuberculosis,Communicable,NULL,89.36,3456.94
+787,25,2000,"Diarrheal Diseases",Communicable,NULL,48.51,2731.87
+788,25,2000,Malaria,Communicable,NULL,90.21,3084.13
+789,25,2000,HIV/AIDS,Communicable,NULL,33.98,1003.15
+790,25,2000,COVID-19,Communicable,NULL,51.97,421.43
+791,25,2000,"Chronic Kidney Disease",NCD,NULL,129.15,383.89
+792,25,2000,"Alzheimers Disease",NCD,NULL,129.26,1495.67
+793,25,2000,"Lung Cancer",NCD,NULL,147.51,582.67
+794,25,2000,"Breast Cancer",NCD,NULL,142.48,346.66
+795,25,2000,"Colorectal Cancer",NCD,NULL,118.99,505.85
+796,25,2000,"Neonatal Disorders",Communicable,NULL,92.86,2465.89
+797,25,2000,"Hypertensive Heart Disease",NCD,NULL,51.05,1369.43
+798,25,2000,"Road Injuries",Injury,NULL,7.11,26.29
+799,25,2000,"Depressive Disorders",NCD,NULL,72.20,1457.00
+800,25,2005,"Ischemic Heart Disease",NCD,NULL,165.20,748.53
+801,25,2005,Stroke,NCD,NULL,116.45,999.82
+802,25,2005,"Diabetes Mellitus",NCD,NULL,88.23,1088.51
+803,25,2005,"Lower Respiratory Infections",Communicable,NULL,59.81,2465.60
+804,25,2005,Tuberculosis,Communicable,NULL,67.24,3353.21
+805,25,2005,"Diarrheal Diseases",Communicable,NULL,40.23,2852.84
+806,25,2005,Malaria,Communicable,NULL,43.01,2470.21
+807,25,2005,HIV/AIDS,Communicable,NULL,63.25,1638.01
+808,25,2005,COVID-19,Communicable,NULL,23.55,845.72
+809,25,2005,"Chronic Kidney Disease",NCD,NULL,169.49,919.36
+810,25,2005,"Alzheimers Disease",NCD,NULL,42.76,771.88
+811,25,2005,"Lung Cancer",NCD,NULL,166.43,1005.91
+812,25,2005,"Breast Cancer",NCD,NULL,55.34,517.89
+813,25,2005,"Colorectal Cancer",NCD,NULL,100.47,1483.65
+814,25,2005,"Neonatal Disorders",Communicable,NULL,85.94,1741.71
+815,25,2005,"Hypertensive Heart Disease",NCD,NULL,91.51,184.53
+816,25,2005,"Road Injuries",Injury,NULL,12.32,160.24
+817,25,2005,"Depressive Disorders",NCD,NULL,143.68,809.74
+818,25,2010,"Ischemic Heart Disease",NCD,NULL,162.54,531.39
+819,25,2010,Stroke,NCD,NULL,94.71,1232.56
+820,25,2010,"Diabetes Mellitus",NCD,NULL,127.80,809.98
+821,25,2010,"Lower Respiratory Infections",Communicable,NULL,95.34,1427.89
+822,25,2010,Tuberculosis,Communicable,NULL,47.00,2398.82
+823,25,2010,"Diarrheal Diseases",Communicable,NULL,82.30,1361.44
+824,25,2010,Malaria,Communicable,NULL,95.23,2841.13
+825,25,2010,HIV/AIDS,Communicable,NULL,50.21,1908.30
+826,25,2010,COVID-19,Communicable,NULL,38.39,1335.58
+827,25,2010,"Chronic Kidney Disease",NCD,NULL,59.66,1229.16
+828,25,2010,"Alzheimers Disease",NCD,NULL,44.18,253.60
+829,25,2010,"Lung Cancer",NCD,NULL,50.86,213.97
+830,25,2010,"Breast Cancer",NCD,NULL,104.61,302.88
+831,25,2010,"Colorectal Cancer",NCD,NULL,139.37,1175.03
+832,25,2010,"Neonatal Disorders",Communicable,NULL,60.60,2322.60
+833,25,2010,"Hypertensive Heart Disease",NCD,NULL,75.90,1414.04
+834,25,2010,"Road Injuries",Injury,NULL,32.51,45.11
+835,25,2010,"Depressive Disorders",NCD,NULL,140.96,307.23
+836,25,2015,"Ischemic Heart Disease",NCD,NULL,149.58,1189.49
+837,25,2015,Stroke,NCD,NULL,63.06,588.08
+838,25,2015,"Diabetes Mellitus",NCD,NULL,59.06,1453.85
+839,25,2015,"Lower Respiratory Infections",Communicable,NULL,20.22,631.53
+840,25,2015,Tuberculosis,Communicable,NULL,38.83,2941.42
+841,25,2015,"Diarrheal Diseases",Communicable,NULL,48.12,1198.14
+842,25,2015,Malaria,Communicable,NULL,33.05,1393.92
+843,25,2015,HIV/AIDS,Communicable,NULL,97.38,2712.96
+844,25,2015,COVID-19,Communicable,NULL,74.73,2918.81
+845,25,2015,"Chronic Kidney Disease",NCD,NULL,49.24,790.14
+846,25,2015,"Alzheimers Disease",NCD,NULL,109.83,803.78
+847,25,2015,"Lung Cancer",NCD,NULL,91.18,1285.95
+848,25,2015,"Breast Cancer",NCD,NULL,88.83,800.15
+849,25,2015,"Colorectal Cancer",NCD,NULL,57.96,1415.23
+850,25,2015,"Neonatal Disorders",Communicable,NULL,54.44,2336.40
+851,25,2015,"Hypertensive Heart Disease",NCD,NULL,147.89,748.53
+852,25,2015,"Road Injuries",Injury,NULL,25.26,139.27
+853,25,2015,"Depressive Disorders",NCD,NULL,50.76,1351.52
+854,25,2020,"Ischemic Heart Disease",NCD,NULL,39.21,842.57
+855,25,2020,Stroke,NCD,NULL,165.09,228.61
+856,25,2020,"Diabetes Mellitus",NCD,NULL,76.25,210.55
+857,25,2020,"Lower Respiratory Infections",Communicable,NULL,84.30,2561.93
+858,25,2020,Tuberculosis,Communicable,NULL,84.64,612.95
+859,25,2020,"Diarrheal Diseases",Communicable,NULL,20.12,2567.29
+860,25,2020,Malaria,Communicable,NULL,62.00,2814.74
+861,25,2020,HIV/AIDS,Communicable,NULL,35.76,1252.77
+862,25,2020,COVID-19,Communicable,NULL,64.27,1384.83
+863,25,2020,"Chronic Kidney Disease",NCD,NULL,73.77,562.80
+864,25,2020,"Alzheimers Disease",NCD,NULL,75.32,821.16
+865,25,2020,"Lung Cancer",NCD,NULL,48.37,713.41
+866,25,2020,"Breast Cancer",NCD,NULL,51.30,160.87
+867,25,2020,"Colorectal Cancer",NCD,NULL,151.94,268.78
+868,25,2020,"Neonatal Disorders",Communicable,NULL,57.12,1158.74
+869,25,2020,"Hypertensive Heart Disease",NCD,NULL,142.80,242.20
+870,25,2020,"Road Injuries",Injury,NULL,12.65,238.08
+871,25,2020,"Depressive Disorders",NCD,NULL,166.72,1221.87
+872,25,2023,"Ischemic Heart Disease",NCD,NULL,48.90,1242.36
+873,25,2023,Stroke,NCD,NULL,97.83,1301.98
+874,25,2023,"Diabetes Mellitus",NCD,NULL,57.73,870.78
+875,25,2023,"Lower Respiratory Infections",Communicable,NULL,64.55,972.55
+876,25,2023,Tuberculosis,Communicable,NULL,66.02,905.54
+877,25,2023,"Diarrheal Diseases",Communicable,NULL,87.34,1277.10
+878,25,2023,Malaria,Communicable,NULL,59.55,2413.56
+879,25,2023,HIV/AIDS,Communicable,NULL,63.25,3414.03
+880,25,2023,COVID-19,Communicable,NULL,85.00,3466.83
+881,25,2023,"Chronic Kidney Disease",NCD,NULL,82.55,299.39
+882,25,2023,"Alzheimers Disease",NCD,NULL,113.76,421.62
+883,25,2023,"Lung Cancer",NCD,NULL,40.82,322.85
+884,25,2023,"Breast Cancer",NCD,NULL,129.91,1024.85
+885,25,2023,"Colorectal Cancer",NCD,NULL,138.10,355.00
+886,25,2023,"Neonatal Disorders",Communicable,NULL,41.98,1115.67
+887,25,2023,"Hypertensive Heart Disease",NCD,NULL,50.33,393.52
+888,25,2023,"Road Injuries",Injury,NULL,8.10,79.65
+889,25,2023,"Depressive Disorders",NCD,NULL,109.60,477.65
+890,173,2000,"Ischemic Heart Disease",NCD,NULL,146.66,1480.59
+891,173,2000,Stroke,NCD,NULL,105.77,1134.51
+892,173,2000,"Diabetes Mellitus",NCD,NULL,156.98,757.06
+893,173,2000,"Lower Respiratory Infections",Communicable,NULL,74.38,2866.82
+894,173,2000,Tuberculosis,Communicable,NULL,25.54,3031.84
+895,173,2000,"Diarrheal Diseases",Communicable,NULL,48.71,2182.10
+896,173,2000,Malaria,Communicable,NULL,88.80,2063.14
+897,173,2000,HIV/AIDS,Communicable,NULL,46.31,2167.95
+898,173,2000,COVID-19,Communicable,NULL,55.87,1101.47
+899,173,2000,"Chronic Kidney Disease",NCD,NULL,63.99,516.47
+900,173,2000,"Alzheimers Disease",NCD,NULL,77.19,810.43
+901,173,2000,"Lung Cancer",NCD,NULL,175.69,422.74
+902,173,2000,"Breast Cancer",NCD,NULL,36.74,1149.39
+903,173,2000,"Colorectal Cancer",NCD,NULL,143.93,1191.15
+904,173,2000,"Neonatal Disorders",Communicable,NULL,65.34,1695.47
+905,173,2000,"Hypertensive Heart Disease",NCD,NULL,64.95,326.59
+906,173,2000,"Road Injuries",Injury,NULL,15.74,129.85
+907,173,2000,"Depressive Disorders",NCD,NULL,121.89,1356.44
+908,173,2005,"Ischemic Heart Disease",NCD,NULL,106.70,1109.41
+909,173,2005,Stroke,NCD,NULL,112.62,1099.77
+910,173,2005,"Diabetes Mellitus",NCD,NULL,112.82,480.12
+911,173,2005,"Lower Respiratory Infections",Communicable,NULL,36.35,1238.50
+912,173,2005,Tuberculosis,Communicable,NULL,58.01,2111.39
+913,173,2005,"Diarrheal Diseases",Communicable,NULL,86.98,1480.78
+914,173,2005,Malaria,Communicable,NULL,75.44,1836.08
+915,173,2005,HIV/AIDS,Communicable,NULL,26.74,3226.39
+916,173,2005,COVID-19,Communicable,NULL,28.36,2662.68
+917,173,2005,"Chronic Kidney Disease",NCD,NULL,129.39,217.90
+918,173,2005,"Alzheimers Disease",NCD,NULL,89.95,792.41
+919,173,2005,"Lung Cancer",NCD,NULL,119.84,920.16
+920,173,2005,"Breast Cancer",NCD,NULL,155.60,865.60
+921,173,2005,"Colorectal Cancer",NCD,NULL,95.93,293.59
+922,173,2005,"Neonatal Disorders",Communicable,NULL,79.10,3551.33
+923,173,2005,"Hypertensive Heart Disease",NCD,NULL,145.14,731.63
+924,173,2005,"Road Injuries",Injury,NULL,12.46,164.71
+925,173,2005,"Depressive Disorders",NCD,NULL,164.43,482.52
+926,173,2010,"Ischemic Heart Disease",NCD,NULL,37.43,1315.43
+927,173,2010,Stroke,NCD,NULL,161.90,1279.28
+928,173,2010,"Diabetes Mellitus",NCD,NULL,79.14,1197.59
+929,173,2010,"Lower Respiratory Infections",Communicable,NULL,56.39,3269.21
+930,173,2010,Tuberculosis,Communicable,NULL,70.87,1150.81
+931,173,2010,"Diarrheal Diseases",Communicable,NULL,18.97,2879.92
+932,173,2010,Malaria,Communicable,NULL,94.91,555.95
+933,173,2010,HIV/AIDS,Communicable,NULL,86.96,3557.30
+934,173,2010,COVID-19,Communicable,NULL,58.48,2877.62
+935,173,2010,"Chronic Kidney Disease",NCD,NULL,70.98,529.96
+936,173,2010,"Alzheimers Disease",NCD,NULL,97.76,975.75
+937,173,2010,"Lung Cancer",NCD,NULL,56.91,1374.78
+938,173,2010,"Breast Cancer",NCD,NULL,160.40,1379.31
+939,173,2010,"Colorectal Cancer",NCD,NULL,130.90,954.21
+940,173,2010,"Neonatal Disorders",Communicable,NULL,34.03,1965.57
+941,173,2010,"Hypertensive Heart Disease",NCD,NULL,51.46,796.79
+942,173,2010,"Road Injuries",Injury,NULL,19.23,80.27
+943,173,2010,"Depressive Disorders",NCD,NULL,152.81,1320.71
+944,173,2015,"Ischemic Heart Disease",NCD,NULL,78.96,467.06
+945,173,2015,Stroke,NCD,NULL,112.09,836.36
+946,173,2015,"Diabetes Mellitus",NCD,NULL,86.00,1302.91
+947,173,2015,"Lower Respiratory Infections",Communicable,NULL,86.27,1032.85
+948,173,2015,Tuberculosis,Communicable,NULL,64.40,1476.31
+949,173,2015,"Diarrheal Diseases",Communicable,NULL,80.63,413.77
+950,173,2015,Malaria,Communicable,NULL,79.00,1050.60
+951,173,2015,HIV/AIDS,Communicable,NULL,68.78,2807.14
+952,173,2015,COVID-19,Communicable,NULL,57.36,2903.07
+953,173,2015,"Chronic Kidney Disease",NCD,NULL,130.21,1161.36
+954,173,2015,"Alzheimers Disease",NCD,NULL,88.96,1045.90
+955,173,2015,"Lung Cancer",NCD,NULL,42.12,1450.64
+956,173,2015,"Breast Cancer",NCD,NULL,132.08,186.88
+957,173,2015,"Colorectal Cancer",NCD,NULL,146.35,301.66
+958,173,2015,"Neonatal Disorders",Communicable,NULL,91.13,685.83
+959,173,2015,"Hypertensive Heart Disease",NCD,NULL,98.67,864.56
+960,173,2015,"Road Injuries",Injury,NULL,28.51,171.09
+961,173,2015,"Depressive Disorders",NCD,NULL,103.18,1350.46
+962,173,2020,"Ischemic Heart Disease",NCD,NULL,122.89,922.21
+963,173,2020,Stroke,NCD,NULL,160.64,643.84
+964,173,2020,"Diabetes Mellitus",NCD,NULL,112.69,945.75
+965,173,2020,"Lower Respiratory Infections",Communicable,NULL,91.76,2306.82
+966,173,2020,Tuberculosis,Communicable,NULL,37.75,3463.86
+967,173,2020,"Diarrheal Diseases",Communicable,NULL,97.42,1083.44
+968,173,2020,Malaria,Communicable,NULL,30.00,760.09
+969,173,2020,HIV/AIDS,Communicable,NULL,45.85,3510.71
+970,173,2020,COVID-19,Communicable,NULL,77.29,762.71
+971,173,2020,"Chronic Kidney Disease",NCD,NULL,105.30,273.22
+972,173,2020,"Alzheimers Disease",NCD,NULL,76.17,1037.33
+973,173,2020,"Lung Cancer",NCD,NULL,119.05,555.39
+974,173,2020,"Breast Cancer",NCD,NULL,163.10,1244.44
+975,173,2020,"Colorectal Cancer",NCD,NULL,117.07,394.61
+976,173,2020,"Neonatal Disorders",Communicable,NULL,90.91,583.15
+977,173,2020,"Hypertensive Heart Disease",NCD,NULL,99.07,583.88
+978,173,2020,"Road Injuries",Injury,NULL,15.47,47.90
+979,173,2020,"Depressive Disorders",NCD,NULL,165.05,670.23
+980,173,2023,"Ischemic Heart Disease",NCD,NULL,173.73,1158.12
+981,173,2023,Stroke,NCD,NULL,172.77,1069.84
+982,173,2023,"Diabetes Mellitus",NCD,NULL,41.06,983.03
+983,173,2023,"Lower Respiratory Infections",Communicable,NULL,69.81,804.36
+984,173,2023,Tuberculosis,Communicable,NULL,94.58,3482.62
+985,173,2023,"Diarrheal Diseases",Communicable,NULL,90.04,1340.00
+986,173,2023,Malaria,Communicable,NULL,41.37,3577.86
+987,173,2023,HIV/AIDS,Communicable,NULL,44.51,1009.02
+988,173,2023,COVID-19,Communicable,NULL,96.56,2067.76
+989,173,2023,"Chronic Kidney Disease",NCD,NULL,35.73,953.88
+990,173,2023,"Alzheimers Disease",NCD,NULL,60.84,1128.37
+991,173,2023,"Lung Cancer",NCD,NULL,52.68,1263.56
+992,173,2023,"Breast Cancer",NCD,NULL,63.25,1454.33
+993,173,2023,"Colorectal Cancer",NCD,NULL,94.34,181.93
+994,173,2023,"Neonatal Disorders",Communicable,NULL,94.09,532.74
+995,173,2023,"Hypertensive Heart Disease",NCD,NULL,94.68,342.41
+996,173,2023,"Road Injuries",Injury,NULL,23.40,182.21
+997,173,2023,"Depressive Disorders",NCD,NULL,134.02,441.37
+998,130,2000,"Ischemic Heart Disease",NCD,NULL,108.89,363.12
+999,130,2000,Stroke,NCD,NULL,89.30,811.93
+1000,130,2000,"Diabetes Mellitus",NCD,NULL,119.70,282.22
