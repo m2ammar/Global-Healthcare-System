@@ -39,13 +39,15 @@ large, interconnected datasets at a professional level.
 
 ## ❓ Business Questions Answered
 
-1. Which countries have the highest life expectancy in 2019?
-2. How does healthcare spending vary across countries and income groups?
-3. Which regions have the best vaccination coverage?
-4. Which countries are high disease burden but low spending — the most underfunded systems?
-5. How does healthcare spending correlate with life expectancy?
-6. What is the risk profile of each country based on obesity, smoking, and air pollution?
-7. Which countries have the strongest overall healthcare scorecard across all KPIs?
+| # | Business Question | Key Finding |
+|---|---|---|
+| 1 | Which countries have the highest life expectancy in 2019? | Jamaica (80.84), Turkey (80.13), Tunisia (79.92) |
+| 2 | How does healthcare spending vary across countries and income groups? | Upper middle income spends the most (~3,200 avg), Low income spends the least |
+| 3 | Which regions have the best vaccination coverage? | East Asia leads at ~93%, Caribbean and Americas close behind |
+| 4 | Which countries are high disease burden but low spending? | Senegal topped the list with mortality rate of 285 |
+| 5 | How does healthcare spending correlate with life expectancy? | Higher spending generally correlates with longer life — visible in scatter plot |
+| 6 | What is the risk profile by obesity, smoking, air pollution? | China classified High Risk, most countries Moderate Risk |
+| 7 | Which countries have the strongest healthcare scorecard? | Australia, Canada, France, Georgia — High spending + Strong life expectancy + Good vaccination |
 
 ---
 
