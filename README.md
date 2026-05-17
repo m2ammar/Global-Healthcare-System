@@ -12,6 +12,16 @@ large, interconnected datasets at a professional level.
 
 ---
 
+## ⚙️ Tech Stack
+
+- MySQL Workbench
+- SQL
+- Tableau Public
+- CSV Data Integration
+- Relational Database Modeling
+
+---
+
 ## 📊 Dashboard
 
 👉 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/GlobalHealthcareSystemDashboard/GlobalHealthcareSystemDashboard) 
@@ -29,6 +39,32 @@ large, interconnected datasets at a professional level.
 | **Visualization** | Tableau Public |
 
 ---
+
+## 🧩 Database Modules
+
+The database includes tables related to:
+
+- Country demographics
+- Healthcare spending
+- Mortality statistics
+- Vaccination coverage
+- Disease burden
+- Risk factors
+- Pandemic response
+- Insurance coverage
+- Health infrastructure
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Modeling
+- Relational Database Design
+- SQL Query Optimization
+- KPI Analysis
+- Business Intelligence
+- Tableau Dashboarding
+- Healthcare Data Analytics
 
 ## 🗺️ Entity Relationship Diagram
 
@@ -327,6 +363,14 @@ ORDER BY sl.country_name;
 - **Formatting and structure** matter as much as correctness in professional SQL
 
 ---
+
+## ▶️ How to Run
+
+1. Open MySQL Workbench
+2. Import `Global_Healthcare_System.sql`
+3. Execute the script to create all tables and insert data
+4. Connect Tableau to exported CSV files
+5. Open Tableau dashboard
 
 ## 📁 Files
 
